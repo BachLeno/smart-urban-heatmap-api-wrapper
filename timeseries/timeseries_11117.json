@@ -1,0 +1,4452 @@
+{
+    "Observations": [
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T00:24:02+00:00",
+            "resultTime": "2024-11-01T00:24:02+00:00",
+            "result": 11.018158
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T00:24:02+00:00",
+            "resultTime": "2024-11-01T00:24:02+00:00",
+            "result": 76.09926
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T00:44:02+00:00",
+            "resultTime": "2024-11-01T00:44:02+00:00",
+            "result": 10.980774
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T00:44:02+00:00",
+            "resultTime": "2024-11-01T00:44:02+00:00",
+            "result": 76.42161
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T01:04:02+00:00",
+            "resultTime": "2024-11-01T01:04:02+00:00",
+            "result": 10.700389
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T01:04:02+00:00",
+            "resultTime": "2024-11-01T01:04:02+00:00",
+            "result": 76.330055
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T01:24:02+00:00",
+            "resultTime": "2024-11-01T01:24:02+00:00",
+            "result": 10.363928
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T01:24:02+00:00",
+            "resultTime": "2024-11-01T01:24:02+00:00",
+            "result": 76.9881
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T01:34:02+00:00",
+            "resultTime": "2024-11-01T01:34:02+00:00",
+            "result": 10.454719
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T01:34:02+00:00",
+            "resultTime": "2024-11-01T01:34:02+00:00",
+            "result": 76.6524
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T02:24:02+00:00",
+            "resultTime": "2024-11-01T02:24:02+00:00",
+            "result": 10.345236
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T02:24:02+00:00",
+            "resultTime": "2024-11-01T02:24:02+00:00",
+            "result": 77.00336
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T02:54:02+00:00",
+            "resultTime": "2024-11-01T02:54:02+00:00",
+            "result": 10.566873
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T02:54:02+00:00",
+            "resultTime": "2024-11-01T02:54:02+00:00",
+            "result": 76.051575
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T03:04:02+00:00",
+            "resultTime": "2024-11-01T03:04:02+00:00",
+            "result": 10.518806
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T03:04:02+00:00",
+            "resultTime": "2024-11-01T03:04:02+00:00",
+            "result": 76.04585
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T03:14:02+00:00",
+            "resultTime": "2024-11-01T03:14:02+00:00",
+            "result": 10.444037
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T03:14:02+00:00",
+            "resultTime": "2024-11-01T03:14:02+00:00",
+            "result": 75.578545
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T03:44:02+00:00",
+            "resultTime": "2024-11-01T03:44:02+00:00",
+            "result": 10.233082
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T03:44:02+00:00",
+            "resultTime": "2024-11-01T03:44:02+00:00",
+            "result": 76.01152
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T04:14:02+00:00",
+            "resultTime": "2024-11-01T04:14:02+00:00",
+            "result": 9.757763
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T04:14:02+00:00",
+            "resultTime": "2024-11-01T04:14:02+00:00",
+            "result": 75.94095
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T04:34:02+00:00",
+            "resultTime": "2024-11-01T04:34:02+00:00",
+            "result": 9.872587
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T04:34:02+00:00",
+            "resultTime": "2024-11-01T04:34:02+00:00",
+            "result": 75.44503
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T04:44:02+00:00",
+            "resultTime": "2024-11-01T04:44:02+00:00",
+            "result": 9.861906
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T04:44:02+00:00",
+            "resultTime": "2024-11-01T04:44:02+00:00",
+            "result": 75.34394
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T04:54:02+00:00",
+            "resultTime": "2024-11-01T04:54:02+00:00",
+            "result": 9.605555
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T04:54:02+00:00",
+            "resultTime": "2024-11-01T04:54:02+00:00",
+            "result": 76.33196
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T05:24:02+00:00",
+            "resultTime": "2024-11-01T05:24:02+00:00",
+            "result": 9.907302
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T05:24:02+00:00",
+            "resultTime": "2024-11-01T05:24:02+00:00",
+            "result": 76.01915
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T05:34:03+00:00",
+            "resultTime": "2024-11-01T05:34:03+00:00",
+            "result": 9.853895
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T05:34:03+00:00",
+            "resultTime": "2024-11-01T05:34:03+00:00",
+            "result": 76.15648
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T06:44:02+00:00",
+            "resultTime": "2024-11-01T06:44:02+00:00",
+            "result": 9.744411
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T06:44:02+00:00",
+            "resultTime": "2024-11-01T06:44:02+00:00",
+            "result": 75.75212
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T07:04:03+00:00",
+            "resultTime": "2024-11-01T07:04:03+00:00",
+            "result": 10.131609
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T07:04:03+00:00",
+            "resultTime": "2024-11-01T07:04:03+00:00",
+            "result": 74.46082
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T08:04:03+00:00",
+            "resultTime": "2024-11-01T08:04:03+00:00",
+            "result": 10.14496
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T08:04:03+00:00",
+            "resultTime": "2024-11-01T08:04:03+00:00",
+            "result": 73.61204
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T08:24:03+00:00",
+            "resultTime": "2024-11-01T08:24:03+00:00",
+            "result": 9.584191
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T08:24:03+00:00",
+            "resultTime": "2024-11-01T08:24:03+00:00",
+            "result": 74.94339
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T08:44:03+00:00",
+            "resultTime": "2024-11-01T08:44:03+00:00",
+            "result": 10.217059
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T08:44:03+00:00",
+            "resultTime": "2024-11-01T08:44:03+00:00",
+            "result": 73.42512
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T09:24:03+00:00",
+            "resultTime": "2024-11-01T09:24:03+00:00",
+            "result": 11.314565
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T09:24:03+00:00",
+            "resultTime": "2024-11-01T09:24:03+00:00",
+            "result": 70.2665
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T10:04:03+00:00",
+            "resultTime": "2024-11-01T10:04:03+00:00",
+            "result": 11.640345
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T10:04:03+00:00",
+            "resultTime": "2024-11-01T10:04:03+00:00",
+            "result": 69.44251
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T10:24:03+00:00",
+            "resultTime": "2024-11-01T10:24:03+00:00",
+            "result": 11.6483555
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T10:24:03+00:00",
+            "resultTime": "2024-11-01T10:24:03+00:00",
+            "result": 68.99237
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T10:34:03+00:00",
+            "resultTime": "2024-11-01T10:34:03+00:00",
+            "result": 12.278553
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T10:34:03+00:00",
+            "resultTime": "2024-11-01T10:34:03+00:00",
+            "result": 67.69726
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T10:44:03+00:00",
+            "resultTime": "2024-11-01T10:44:03+00:00",
+            "result": 13.458838
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T10:44:03+00:00",
+            "resultTime": "2024-11-01T10:44:03+00:00",
+            "result": 63.64027
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T11:04:03+00:00",
+            "resultTime": "2024-11-01T11:04:03+00:00",
+            "result": 14.171817
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T11:04:03+00:00",
+            "resultTime": "2024-11-01T11:04:03+00:00",
+            "result": 63.04898
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T11:24:03+00:00",
+            "resultTime": "2024-11-01T11:24:03+00:00",
+            "result": 14.5243
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T11:24:03+00:00",
+            "resultTime": "2024-11-01T11:24:03+00:00",
+            "result": 62.42527
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T11:34:03+00:00",
+            "resultTime": "2024-11-01T11:34:03+00:00",
+            "result": 15.25597
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T11:34:03+00:00",
+            "resultTime": "2024-11-01T11:34:03+00:00",
+            "result": 60.397728
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T11:44:03+00:00",
+            "resultTime": "2024-11-01T11:44:03+00:00",
+            "result": 14.636454
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T11:44:03+00:00",
+            "resultTime": "2024-11-01T11:44:03+00:00",
+            "result": 62.16968
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T11:54:03+00:00",
+            "resultTime": "2024-11-01T11:54:03+00:00",
+            "result": 16.198597
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T11:54:03+00:00",
+            "resultTime": "2024-11-01T11:54:03+00:00",
+            "result": 58.538033
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T12:04:03+00:00",
+            "resultTime": "2024-11-01T12:04:03+00:00",
+            "result": 15.573739
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T12:04:03+00:00",
+            "resultTime": "2024-11-01T12:04:03+00:00",
+            "result": 60.029602
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T12:14:03+00:00",
+            "resultTime": "2024-11-01T12:14:03+00:00",
+            "result": 15.74464
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T12:14:03+00:00",
+            "resultTime": "2024-11-01T12:14:03+00:00",
+            "result": 60.128788
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T12:24:03+00:00",
+            "resultTime": "2024-11-01T12:24:03+00:00",
+            "result": 17.677958
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T12:24:03+00:00",
+            "resultTime": "2024-11-01T12:24:03+00:00",
+            "result": 55.276417
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T12:44:03+00:00",
+            "resultTime": "2024-11-01T12:44:03+00:00",
+            "result": 16.580454
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T12:44:03+00:00",
+            "resultTime": "2024-11-01T12:44:03+00:00",
+            "result": 57.998245
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T13:04:03+00:00",
+            "resultTime": "2024-11-01T13:04:03+00:00",
+            "result": 16.794079
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T13:04:03+00:00",
+            "resultTime": "2024-11-01T13:04:03+00:00",
+            "result": 58.187077
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T13:54:03+00:00",
+            "resultTime": "2024-11-01T13:54:03+00:00",
+            "result": 18.09987
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T13:54:03+00:00",
+            "resultTime": "2024-11-01T13:54:03+00:00",
+            "result": 54.87587
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T14:24:03+00:00",
+            "resultTime": "2024-11-01T14:24:03+00:00",
+            "result": 18.305485
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T14:24:03+00:00",
+            "resultTime": "2024-11-01T14:24:03+00:00",
+            "result": 53.380486
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T14:34:03+00:00",
+            "resultTime": "2024-11-01T14:34:03+00:00",
+            "result": 18.09186
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T14:34:03+00:00",
+            "resultTime": "2024-11-01T14:34:03+00:00",
+            "result": 54.6775
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T14:44:03+00:00",
+            "resultTime": "2024-11-01T14:44:03+00:00",
+            "result": 18.380255
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T14:44:03+00:00",
+            "resultTime": "2024-11-01T14:44:03+00:00",
+            "result": 54.339893
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T15:14:03+00:00",
+            "resultTime": "2024-11-01T15:14:03+00:00",
+            "result": 17.021057
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T15:14:03+00:00",
+            "resultTime": "2024-11-01T15:14:03+00:00",
+            "result": 58.448387
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T15:24:03+00:00",
+            "resultTime": "2024-11-01T15:24:03+00:00",
+            "result": 16.759365
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T15:24:03+00:00",
+            "resultTime": "2024-11-01T15:24:03+00:00",
+            "result": 59.95331
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T16:14:03+00:00",
+            "resultTime": "2024-11-01T16:14:03+00:00",
+            "result": 14.470894
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T16:14:03+00:00",
+            "resultTime": "2024-11-01T16:14:03+00:00",
+            "result": 67.61143
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T16:24:03+00:00",
+            "resultTime": "2024-11-01T16:24:03+00:00",
+            "result": 14.139772
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T16:24:03+00:00",
+            "resultTime": "2024-11-01T16:24:03+00:00",
+            "result": 69.089645
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T16:34:03+00:00",
+            "resultTime": "2024-11-01T16:34:03+00:00",
+            "result": 13.974213
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T16:34:03+00:00",
+            "resultTime": "2024-11-01T16:34:03+00:00",
+            "result": 69.07439
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T17:24:03+00:00",
+            "resultTime": "2024-11-01T17:24:03+00:00",
+            "result": 12.839322
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T17:24:03+00:00",
+            "resultTime": "2024-11-01T17:24:03+00:00",
+            "result": 71.38232
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T17:34:03+00:00",
+            "resultTime": "2024-11-01T17:34:03+00:00",
+            "result": 12.572289
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T17:34:03+00:00",
+            "resultTime": "2024-11-01T17:34:03+00:00",
+            "result": 71.821014
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T17:54:03+00:00",
+            "resultTime": "2024-11-01T17:54:03+00:00",
+            "result": 12.190433
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T17:54:03+00:00",
+            "resultTime": "2024-11-01T17:54:03+00:00",
+            "result": 72.13191
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T18:04:03+00:00",
+            "resultTime": "2024-11-01T18:04:03+00:00",
+            "result": 12.104982
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T18:04:03+00:00",
+            "resultTime": "2024-11-01T18:04:03+00:00",
+            "result": 71.935455
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T18:24:03+00:00",
+            "resultTime": "2024-11-01T18:24:03+00:00",
+            "result": 11.512169
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T18:24:03+00:00",
+            "resultTime": "2024-11-01T18:24:03+00:00",
+            "result": 73.43847
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T18:44:03+00:00",
+            "resultTime": "2024-11-01T18:44:03+00:00",
+            "result": 11.488136
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T18:44:03+00:00",
+            "resultTime": "2024-11-01T18:44:03+00:00",
+            "result": 73.30305
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T18:54:03+00:00",
+            "resultTime": "2024-11-01T18:54:03+00:00",
+            "result": 11.231785
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T18:54:03+00:00",
+            "resultTime": "2024-11-01T18:54:03+00:00",
+            "result": 73.46899
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T19:04:03+00:00",
+            "resultTime": "2024-11-01T19:04:03+00:00",
+            "result": 11.11429
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T19:04:03+00:00",
+            "resultTime": "2024-11-01T19:04:03+00:00",
+            "result": 73.36027
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T19:14:03+00:00",
+            "resultTime": "2024-11-01T19:14:03+00:00",
+            "result": 11.018158
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T19:14:03+00:00",
+            "resultTime": "2024-11-01T19:14:03+00:00",
+            "result": 73.75891
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T19:44:03+00:00",
+            "resultTime": "2024-11-01T19:44:03+00:00",
+            "result": 10.679027
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T19:44:03+00:00",
+            "resultTime": "2024-11-01T19:44:03+00:00",
+            "result": 73.75891
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T20:14:03+00:00",
+            "resultTime": "2024-11-01T20:14:03+00:00",
+            "result": 10.345236
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T20:14:03+00:00",
+            "resultTime": "2024-11-01T20:14:03+00:00",
+            "result": 74.17471
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T21:04:03+00:00",
+            "resultTime": "2024-11-01T21:04:03+00:00",
+            "result": 9.648279
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T21:04:03+00:00",
+            "resultTime": "2024-11-01T21:04:03+00:00",
+            "result": 74.495155
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T21:14:03+00:00",
+            "resultTime": "2024-11-01T21:14:03+00:00",
+            "result": 9.610895
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T21:14:03+00:00",
+            "resultTime": "2024-11-01T21:14:03+00:00",
+            "result": 74.52758
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T21:34:03+00:00",
+            "resultTime": "2024-11-01T21:34:03+00:00",
+            "result": 9.434653
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T21:34:03+00:00",
+            "resultTime": "2024-11-01T21:34:03+00:00",
+            "result": 74.82323
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T21:44:03+00:00",
+            "resultTime": "2024-11-01T21:44:03+00:00",
+            "result": 9.402609
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T21:44:03+00:00",
+            "resultTime": "2024-11-01T21:44:03+00:00",
+            "result": 74.25483
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T22:44:03+00:00",
+            "resultTime": "2024-11-01T22:44:03+00:00",
+            "result": 9.055467
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T22:44:03+00:00",
+            "resultTime": "2024-11-01T22:44:03+00:00",
+            "result": 74.16518
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T22:54:03+00:00",
+            "resultTime": "2024-11-01T22:54:03+00:00",
+            "result": 8.8952465
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T22:54:03+00:00",
+            "resultTime": "2024-11-01T22:54:03+00:00",
+            "result": 74.09842
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T23:14:03+00:00",
+            "resultTime": "2024-11-01T23:14:03+00:00",
+            "result": 8.836499
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T23:14:03+00:00",
+            "resultTime": "2024-11-01T23:14:03+00:00",
+            "result": 74.373085
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T23:34:03+00:00",
+            "resultTime": "2024-11-01T23:34:03+00:00",
+            "result": 8.524071
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T23:34:03+00:00",
+            "resultTime": "2024-11-01T23:34:03+00:00",
+            "result": 74.458916
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-01T23:54:03+00:00",
+            "resultTime": "2024-11-01T23:54:03+00:00",
+            "result": 8.369192
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-01T23:54:03+00:00",
+            "resultTime": "2024-11-01T23:54:03+00:00",
+            "result": 75.11124
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T00:04:03+00:00",
+            "resultTime": "2024-11-02T00:04:03+00:00",
+            "result": 8.395895
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T00:04:03+00:00",
+            "resultTime": "2024-11-02T00:04:03+00:00",
+            "result": 74.596245
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T00:14:03+00:00",
+            "resultTime": "2024-11-02T00:14:03+00:00",
+            "result": 8.208972
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T00:14:03+00:00",
+            "resultTime": "2024-11-02T00:14:03+00:00",
+            "result": 74.41123
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T00:24:03+00:00",
+            "resultTime": "2024-11-02T00:24:03+00:00",
+            "result": 8.147554
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T00:24:03+00:00",
+            "resultTime": "2024-11-02T00:24:03+00:00",
+            "result": 74.18234
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T00:54:03+00:00",
+            "resultTime": "2024-11-02T00:54:03+00:00",
+            "result": 7.896544
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T00:54:03+00:00",
+            "resultTime": "2024-11-02T00:54:03+00:00",
+            "result": 74.16708
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T01:24:03+00:00",
+            "resultTime": "2024-11-02T01:24:03+00:00",
+            "result": 7.6909285
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T01:24:03+00:00",
+            "resultTime": "2024-11-02T01:24:03+00:00",
+            "result": 74.718315
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T01:34:03+00:00",
+            "resultTime": "2024-11-02T01:34:03+00:00",
+            "result": 7.578775
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T01:34:03+00:00",
+            "resultTime": "2024-11-02T01:34:03+00:00",
+            "result": 74.50851
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T02:14:03+00:00",
+            "resultTime": "2024-11-02T02:14:03+00:00",
+            "result": 7.303731
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T02:14:03+00:00",
+            "resultTime": "2024-11-02T02:14:03+00:00",
+            "result": 74.38262
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T02:24:03+00:00",
+            "resultTime": "2024-11-02T02:24:03+00:00",
+            "result": 7.367819
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T02:24:03+00:00",
+            "resultTime": "2024-11-02T02:24:03+00:00",
+            "result": 74.40551
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T02:34:03+00:00",
+            "resultTime": "2024-11-02T02:34:03+00:00",
+            "result": 7.3090715
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T02:34:03+00:00",
+            "resultTime": "2024-11-02T02:34:03+00:00",
+            "result": 75.52323
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T02:54:03+00:00",
+            "resultTime": "2024-11-02T02:54:03+00:00",
+            "result": 7.258335
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T02:54:03+00:00",
+            "resultTime": "2024-11-02T02:54:03+00:00",
+            "result": 74.67063
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T03:04:03+00:00",
+            "resultTime": "2024-11-02T03:04:03+00:00",
+            "result": 7.071412
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T03:04:03+00:00",
+            "resultTime": "2024-11-02T03:04:03+00:00",
+            "result": 74.74502
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T03:14:03+00:00",
+            "resultTime": "2024-11-02T03:14:03+00:00",
+            "result": 6.7883573
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T03:14:03+00:00",
+            "resultTime": "2024-11-02T03:14:03+00:00",
+            "result": 75.09979
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T03:24:03+00:00",
+            "resultTime": "2024-11-02T03:24:03+00:00",
+            "result": 6.873808
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T03:24:03+00:00",
+            "resultTime": "2024-11-02T03:24:03+00:00",
+            "result": 74.552376
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T03:44:03+00:00",
+            "resultTime": "2024-11-02T03:44:03+00:00",
+            "result": 6.817731
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T03:44:03+00:00",
+            "resultTime": "2024-11-02T03:44:03+00:00",
+            "result": 75.441216
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T04:04:03+00:00",
+            "resultTime": "2024-11-02T04:04:03+00:00",
+            "result": 6.9138627
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T04:04:03+00:00",
+            "resultTime": "2024-11-02T04:04:03+00:00",
+            "result": 74.718315
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T04:14:03+00:00",
+            "resultTime": "2024-11-02T04:14:03+00:00",
+            "result": 6.689555
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T04:14:03+00:00",
+            "resultTime": "2024-11-02T04:14:03+00:00",
+            "result": 75.36874
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T04:24:03+00:00",
+            "resultTime": "2024-11-02T04:24:03+00:00",
+            "result": 6.9031816
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T04:24:03+00:00",
+            "resultTime": "2024-11-02T04:24:03+00:00",
+            "result": 74.82895
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T04:34:03+00:00",
+            "resultTime": "2024-11-02T04:34:03+00:00",
+            "result": 6.996643
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T04:34:03+00:00",
+            "resultTime": "2024-11-02T04:34:03+00:00",
+            "result": 74.97963
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T04:44:03+00:00",
+            "resultTime": "2024-11-02T04:44:03+00:00",
+            "result": 6.948577
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T04:44:03+00:00",
+            "resultTime": "2024-11-02T04:44:03+00:00",
+            "result": 76.444496
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T05:14:03+00:00",
+            "resultTime": "2024-11-02T05:14:03+00:00",
+            "result": 7.0447087
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T05:14:03+00:00",
+            "resultTime": "2024-11-02T05:14:03+00:00",
+            "result": 76.54368
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T05:24:03+00:00",
+            "resultTime": "2024-11-02T05:24:03+00:00",
+            "result": 6.9459066
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T05:24:03+00:00",
+            "resultTime": "2024-11-02T05:24:03+00:00",
+            "result": 76.932785
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T06:14:03+00:00",
+            "resultTime": "2024-11-02T06:14:03+00:00",
+            "result": 7.039368
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T06:14:03+00:00",
+            "resultTime": "2024-11-02T06:14:03+00:00",
+            "result": 77.119705
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T06:24:03+00:00",
+            "resultTime": "2024-11-02T06:24:03+00:00",
+            "result": 7.199588
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T06:24:03+00:00",
+            "resultTime": "2024-11-02T06:24:03+00:00",
+            "result": 76.911804
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T06:44:03+00:00",
+            "resultTime": "2024-11-02T06:44:03+00:00",
+            "result": 7.1782255
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T06:44:03+00:00",
+            "resultTime": "2024-11-02T06:44:03+00:00",
+            "result": 76.82216
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T07:44:03+00:00",
+            "resultTime": "2024-11-02T07:44:03+00:00",
+            "result": 7.661555
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T07:44:03+00:00",
+            "resultTime": "2024-11-02T07:44:03+00:00",
+            "result": 77.12352
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T08:24:03+00:00",
+            "resultTime": "2024-11-02T08:24:03+00:00",
+            "result": 8.128862
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T08:24:03+00:00",
+            "resultTime": "2024-11-02T08:24:03+00:00",
+            "result": 76.26139
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T08:34:03+00:00",
+            "resultTime": "2024-11-02T08:34:03+00:00",
+            "result": 8.251698
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T08:34:03+00:00",
+            "resultTime": "2024-11-02T08:34:03+00:00",
+            "result": 75.69108
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T08:54:03+00:00",
+            "resultTime": "2024-11-02T08:54:03+00:00",
+            "result": 8.505379
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T08:54:03+00:00",
+            "resultTime": "2024-11-02T08:54:03+00:00",
+            "result": 75.94858
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T09:04:03+00:00",
+            "resultTime": "2024-11-02T09:04:03+00:00",
+            "result": 9.08217
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T09:04:03+00:00",
+            "resultTime": "2024-11-02T09:04:03+00:00",
+            "result": 77.12352
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T09:24:03+00:00",
+            "resultTime": "2024-11-02T09:24:03+00:00",
+            "result": 9.739071
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T09:24:03+00:00",
+            "resultTime": "2024-11-02T09:24:03+00:00",
+            "result": 74.159454
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T10:24:03+00:00",
+            "resultTime": "2024-11-02T10:24:03+00:00",
+            "result": 10.828565
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T10:24:03+00:00",
+            "resultTime": "2024-11-02T10:24:03+00:00",
+            "result": 74.9205
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T11:14:03+00:00",
+            "resultTime": "2024-11-02T11:14:03+00:00",
+            "result": 11.413367
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T11:14:03+00:00",
+            "resultTime": "2024-11-02T11:14:03+00:00",
+            "result": 73.90578
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T12:04:03+00:00",
+            "resultTime": "2024-11-02T12:04:03+00:00",
+            "result": 12.16907
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T12:04:03+00:00",
+            "resultTime": "2024-11-02T12:04:03+00:00",
+            "result": 71.224
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T12:34:03+00:00",
+            "resultTime": "2024-11-02T12:34:03+00:00",
+            "result": 12.388037
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T12:34:03+00:00",
+            "resultTime": "2024-11-02T12:34:03+00:00",
+            "result": 70.64225
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T13:14:03+00:00",
+            "resultTime": "2024-11-02T13:14:03+00:00",
+            "result": 12.027542
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T13:14:03+00:00",
+            "resultTime": "2024-11-02T13:14:03+00:00",
+            "result": 70.95125
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T13:24:03+00:00",
+            "resultTime": "2024-11-02T13:24:03+00:00",
+            "result": 12.289235
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T13:24:03+00:00",
+            "resultTime": "2024-11-02T13:24:03+00:00",
+            "result": 70.99512
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T13:34:03+00:00",
+            "resultTime": "2024-11-02T13:34:03+00:00",
+            "result": 12.422751
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T13:34:03+00:00",
+            "resultTime": "2024-11-02T13:34:03+00:00",
+            "result": 69.71908
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T13:44:03+00:00",
+            "resultTime": "2024-11-02T13:44:03+00:00",
+            "result": 12.259861
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T13:44:03+00:00",
+            "resultTime": "2024-11-02T13:44:03+00:00",
+            "result": 70.4477
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T14:14:03+00:00",
+            "resultTime": "2024-11-02T14:14:03+00:00",
+            "result": 12.099642
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T14:14:03+00:00",
+            "resultTime": "2024-11-02T14:14:03+00:00",
+            "result": 68.931335
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T14:24:03+00:00",
+            "resultTime": "2024-11-02T14:24:03+00:00",
+            "result": 12.115664
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T14:24:03+00:00",
+            "resultTime": "2024-11-02T14:24:03+00:00",
+            "result": 68.82262
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T15:04:03+00:00",
+            "resultTime": "2024-11-02T15:04:03+00:00",
+            "result": 11.317235
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T15:04:03+00:00",
+            "resultTime": "2024-11-02T15:04:03+00:00",
+            "result": 71.2736
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T15:14:03+00:00",
+            "resultTime": "2024-11-02T15:14:03+00:00",
+            "result": 11.258488
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T15:14:03+00:00",
+            "resultTime": "2024-11-02T15:14:03+00:00",
+            "result": 70.92264
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T15:44:03+00:00",
+            "resultTime": "2024-11-02T15:44:03+00:00",
+            "result": 11.565576
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T15:44:03+00:00",
+            "resultTime": "2024-11-02T15:44:03+00:00",
+            "result": 70.846344
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T16:04:03+00:00",
+            "resultTime": "2024-11-02T16:04:03+00:00",
+            "result": 11.533532
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T16:04:03+00:00",
+            "resultTime": "2024-11-02T16:04:03+00:00",
+            "result": 70.86542
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T16:24:03+00:00",
+            "resultTime": "2024-11-02T16:24:03+00:00",
+            "result": 11.530861
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T16:24:03+00:00",
+            "resultTime": "2024-11-02T16:24:03+00:00",
+            "result": 70.638435
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T16:34:03+00:00",
+            "resultTime": "2024-11-02T16:34:03+00:00",
+            "result": 11.402685
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T16:34:03+00:00",
+            "resultTime": "2024-11-02T16:34:03+00:00",
+            "result": 70.69375
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T16:54:03+00:00",
+            "resultTime": "2024-11-02T16:54:03+00:00",
+            "result": 11.466773
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T16:54:03+00:00",
+            "resultTime": "2024-11-02T16:54:03+00:00",
+            "result": 70.41718
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T17:24:03+00:00",
+            "resultTime": "2024-11-02T17:24:03+00:00",
+            "result": 11.512169
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T17:24:03+00:00",
+            "resultTime": "2024-11-02T17:24:03+00:00",
+            "result": 70.108185
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T18:04:03+00:00",
+            "resultTime": "2024-11-02T18:04:03+00:00",
+            "result": 11.637674
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T18:04:03+00:00",
+            "resultTime": "2024-11-02T18:04:03+00:00",
+            "result": 70.09865
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T18:14:03+00:00",
+            "resultTime": "2024-11-02T18:14:03+00:00",
+            "result": 11.60029
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T18:14:03+00:00",
+            "resultTime": "2024-11-02T18:14:03+00:00",
+            "result": 70.043335
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T18:34:03+00:00",
+            "resultTime": "2024-11-02T18:34:03+00:00",
+            "result": 11.637674
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T18:34:03+00:00",
+            "resultTime": "2024-11-02T18:34:03+00:00",
+            "result": 69.54742
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T18:44:03+00:00",
+            "resultTime": "2024-11-02T18:44:03+00:00",
+            "result": 11.67773
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T18:44:03+00:00",
+            "resultTime": "2024-11-02T18:44:03+00:00",
+            "result": 69.37003
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T19:34:03+00:00",
+            "resultTime": "2024-11-02T19:34:03+00:00",
+            "result": 11.76585
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T19:34:03+00:00",
+            "resultTime": "2024-11-02T19:34:03+00:00",
+            "result": 69.78203
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T19:44:03+00:00",
+            "resultTime": "2024-11-02T19:44:03+00:00",
+            "result": 11.776531
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T19:44:03+00:00",
+            "resultTime": "2024-11-02T19:44:03+00:00",
+            "result": 69.627525
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T20:24:03+00:00",
+            "resultTime": "2024-11-02T20:24:03+00:00",
+            "result": 11.170367
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T20:24:03+00:00",
+            "resultTime": "2024-11-02T20:24:03+00:00",
+            "result": 73.17334
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T20:44:03+00:00",
+            "resultTime": "2024-11-02T20:44:03+00:00",
+            "result": 10.999466
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T20:44:03+00:00",
+            "resultTime": "2024-11-02T20:44:03+00:00",
+            "result": 73.81613
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T20:54:03+00:00",
+            "resultTime": "2024-11-02T20:54:03+00:00",
+            "result": 10.881971
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T20:54:03+00:00",
+            "resultTime": "2024-11-02T20:54:03+00:00",
+            "result": 74.216675
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T22:14:03+00:00",
+            "resultTime": "2024-11-02T22:14:03+00:00",
+            "result": 10.71107
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T22:14:03+00:00",
+            "resultTime": "2024-11-02T22:14:03+00:00",
+            "result": 74.8938
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T22:24:03+00:00",
+            "resultTime": "2024-11-02T22:24:03+00:00",
+            "result": 10.476082
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T22:24:03+00:00",
+            "resultTime": "2024-11-02T22:24:03+00:00",
+            "result": 75.51751
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T22:54:03+00:00",
+            "resultTime": "2024-11-02T22:54:03+00:00",
+            "result": 10.564202
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T22:54:03+00:00",
+            "resultTime": "2024-11-02T22:54:03+00:00",
+            "result": 76.0325
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T23:04:03+00:00",
+            "resultTime": "2024-11-02T23:04:03+00:00",
+            "result": 10.638971
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T23:04:03+00:00",
+            "resultTime": "2024-11-02T23:04:03+00:00",
+            "result": 75.71778
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T23:14:03+00:00",
+            "resultTime": "2024-11-02T23:14:03+00:00",
+            "result": 10.500114
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T23:14:03+00:00",
+            "resultTime": "2024-11-02T23:14:03+00:00",
+            "result": 75.94095
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T23:24:03+00:00",
+            "resultTime": "2024-11-02T23:24:03+00:00",
+            "result": 10.403982
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T23:24:03+00:00",
+            "resultTime": "2024-11-02T23:24:03+00:00",
+            "result": 75.73876
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-02T23:54:03+00:00",
+            "resultTime": "2024-11-02T23:54:03+00:00",
+            "result": 10.481422
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-02T23:54:03+00:00",
+            "resultTime": "2024-11-02T23:54:03+00:00",
+            "result": 75.635765
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T00:14:03+00:00",
+            "resultTime": "2024-11-03T00:14:03+00:00",
+            "result": 10.417335
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T00:14:03+00:00",
+            "resultTime": "2024-11-03T00:14:03+00:00",
+            "result": 75.67582
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T00:34:03+00:00",
+            "resultTime": "2024-11-03T00:34:03+00:00",
+            "result": 10.494774
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T00:34:03+00:00",
+            "resultTime": "2024-11-03T00:34:03+00:00",
+            "result": 75.36683
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T01:24:03+00:00",
+            "resultTime": "2024-11-03T01:24:03+00:00",
+            "result": 10.636301
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T01:24:03+00:00",
+            "resultTime": "2024-11-03T01:24:03+00:00",
+            "result": 74.94911
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T01:34:03+00:00",
+            "resultTime": "2024-11-03T01:34:03+00:00",
+            "result": 10.753796
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T01:34:03+00:00",
+            "resultTime": "2024-11-03T01:34:03+00:00",
+            "result": 74.8423
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T01:44:03+00:00",
+            "resultTime": "2024-11-03T01:44:03+00:00",
+            "result": 10.796521
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T01:44:03+00:00",
+            "resultTime": "2024-11-03T01:44:03+00:00",
+            "result": 74.65919
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T02:04:03+00:00",
+            "resultTime": "2024-11-03T02:04:03+00:00",
+            "result": 10.700389
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T02:04:03+00:00",
+            "resultTime": "2024-11-03T02:04:03+00:00",
+            "result": 74.66682
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T02:14:03+00:00",
+            "resultTime": "2024-11-03T02:14:03+00:00",
+            "result": 10.665675
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T02:14:03+00:00",
+            "resultTime": "2024-11-03T02:14:03+00:00",
+            "result": 74.90715
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T02:24:03+00:00",
+            "resultTime": "2024-11-03T02:24:03+00:00",
+            "result": 10.777828
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T02:24:03+00:00",
+            "resultTime": "2024-11-03T02:24:03+00:00",
+            "result": 74.195694
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T02:34:03+00:00",
+            "resultTime": "2024-11-03T02:34:03+00:00",
+            "result": 10.735104
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T02:34:03+00:00",
+            "resultTime": "2024-11-03T02:34:03+00:00",
+            "result": 74.35592
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T03:04:03+00:00",
+            "resultTime": "2024-11-03T03:04:03+00:00",
+            "result": 10.807202
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T03:04:03+00:00",
+            "resultTime": "2024-11-03T03:04:03+00:00",
+            "result": 73.05318
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T03:24:03+00:00",
+            "resultTime": "2024-11-03T03:24:03+00:00",
+            "result": 10.620279
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T03:24:03+00:00",
+            "resultTime": "2024-11-03T03:24:03+00:00",
+            "result": 74.82323
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T03:34:03+00:00",
+            "resultTime": "2024-11-03T03:34:03+00:00",
+            "result": 10.604258
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T03:34:03+00:00",
+            "resultTime": "2024-11-03T03:34:03+00:00",
+            "result": 74.9453
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T04:14:03+00:00",
+            "resultTime": "2024-11-03T04:14:03+00:00",
+            "result": 10.756466
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T04:14:03+00:00",
+            "resultTime": "2024-11-03T04:14:03+00:00",
+            "result": 74.23003
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T04:34:03+00:00",
+            "resultTime": "2024-11-03T04:34:03+00:00",
+            "result": 10.687037
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T04:34:03+00:00",
+            "resultTime": "2024-11-03T04:34:03+00:00",
+            "result": 72.79378
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T04:44:03+00:00",
+            "resultTime": "2024-11-03T04:44:03+00:00",
+            "result": 10.550851
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T04:44:03+00:00",
+            "resultTime": "2024-11-03T04:44:03+00:00",
+            "result": 72.61829
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T04:54:03+00:00",
+            "resultTime": "2024-11-03T04:54:03+00:00",
+            "result": 10.914016
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T04:54:03+00:00",
+            "resultTime": "2024-11-03T04:54:03+00:00",
+            "result": 71.296486
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T05:04:03+00:00",
+            "resultTime": "2024-11-03T05:04:03+00:00",
+            "result": 10.919356
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T05:04:03+00:00",
+            "resultTime": "2024-11-03T05:04:03+00:00",
+            "result": 70.9913
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T05:14:03+00:00",
+            "resultTime": "2024-11-03T05:14:03+00:00",
+            "result": 10.972763
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T05:14:03+00:00",
+            "resultTime": "2024-11-03T05:14:03+00:00",
+            "result": 71.126724
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T05:34:03+00:00",
+            "resultTime": "2024-11-03T05:34:03+00:00",
+            "result": 10.857939
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T05:34:03+00:00",
+            "resultTime": "2024-11-03T05:34:03+00:00",
+            "result": 70.97986
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T05:44:03+00:00",
+            "resultTime": "2024-11-03T05:44:03+00:00",
+            "result": 10.820554
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T05:44:03+00:00",
+            "resultTime": "2024-11-03T05:44:03+00:00",
+            "result": 71.35752
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T05:54:03+00:00",
+            "resultTime": "2024-11-03T05:54:03+00:00",
+            "result": 10.54284
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T05:54:03+00:00",
+            "resultTime": "2024-11-03T05:54:03+00:00",
+            "result": 73.04555
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T06:04:03+00:00",
+            "resultTime": "2024-11-03T06:04:03+00:00",
+            "result": 10.7084
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T06:04:03+00:00",
+            "resultTime": "2024-11-03T06:04:03+00:00",
+            "result": 71.32891
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T06:24:03+00:00",
+            "resultTime": "2024-11-03T06:24:03+00:00",
+            "result": 10.604258
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T06:24:03+00:00",
+            "resultTime": "2024-11-03T06:24:03+00:00",
+            "result": 72.10712
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T06:54:03+00:00",
+            "resultTime": "2024-11-03T06:54:03+00:00",
+            "result": 10.454719
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T06:54:03+00:00",
+            "resultTime": "2024-11-03T06:54:03+00:00",
+            "result": 72.34173
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T07:04:03+00:00",
+            "resultTime": "2024-11-03T07:04:03+00:00",
+            "result": 10.502785
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T07:04:03+00:00",
+            "resultTime": "2024-11-03T07:04:03+00:00",
+            "result": 71.90303
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T07:14:03+00:00",
+            "resultTime": "2024-11-03T07:14:03+00:00",
+            "result": 10.489433
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T07:14:03+00:00",
+            "resultTime": "2024-11-03T07:14:03+00:00",
+            "result": 71.813385
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T07:44:03+00:00",
+            "resultTime": "2024-11-03T07:44:03+00:00",
+            "result": 10.452048
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T07:44:03+00:00",
+            "resultTime": "2024-11-03T07:44:03+00:00",
+            "result": 71.46815
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T08:04:03+00:00",
+            "resultTime": "2024-11-03T08:04:03+00:00",
+            "result": 10.609598
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T08:04:03+00:00",
+            "resultTime": "2024-11-03T08:04:03+00:00",
+            "result": 71.02182
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T08:14:03+00:00",
+            "resultTime": "2024-11-03T08:14:03+00:00",
+            "result": 10.641642
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T08:14:03+00:00",
+            "resultTime": "2024-11-03T08:14:03+00:00",
+            "result": 71.08476
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T08:54:03+00:00",
+            "resultTime": "2024-11-03T08:54:03+00:00",
+            "result": 10.970093
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T08:54:03+00:00",
+            "resultTime": "2024-11-03T08:54:03+00:00",
+            "result": 70.36378
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T09:14:03+00:00",
+            "resultTime": "2024-11-03T09:14:03+00:00",
+            "result": 11.429389
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T09:14:03+00:00",
+            "resultTime": "2024-11-03T09:14:03+00:00",
+            "result": 68.88937
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T09:34:03+00:00",
+            "resultTime": "2024-11-03T09:34:03+00:00",
+            "result": 11.424048
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T09:34:03+00:00",
+            "resultTime": "2024-11-03T09:34:03+00:00",
+            "result": 68.4564
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T09:54:03+00:00",
+            "resultTime": "2024-11-03T09:54:03+00:00",
+            "result": 11.138323
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T09:54:03+00:00",
+            "resultTime": "2024-11-03T09:54:03+00:00",
+            "result": 69.14496
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T10:14:03+00:00",
+            "resultTime": "2024-11-03T10:14:03+00:00",
+            "result": 11.7044325
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T10:14:03+00:00",
+            "resultTime": "2024-11-03T10:14:03+00:00",
+            "result": 67.45884
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T10:24:03+00:00",
+            "resultTime": "2024-11-03T10:24:03+00:00",
+            "result": 11.805905
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T10:24:03+00:00",
+            "resultTime": "2024-11-03T10:24:03+00:00",
+            "result": 67.281456
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T10:34:03+00:00",
+            "resultTime": "2024-11-03T10:34:03+00:00",
+            "result": 11.776531
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T10:34:03+00:00",
+            "resultTime": "2024-11-03T10:34:03+00:00",
+            "result": 67.18227
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T10:44:03+00:00",
+            "resultTime": "2024-11-03T10:44:03+00:00",
+            "result": 11.867323
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T10:44:03+00:00",
+            "resultTime": "2024-11-03T10:44:03+00:00",
+            "result": 66.68253
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T10:54:03+00:00",
+            "resultTime": "2024-11-03T10:54:03+00:00",
+            "result": 11.803235
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T10:54:03+00:00",
+            "resultTime": "2024-11-03T10:54:03+00:00",
+            "result": 66.92668
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T11:14:03+00:00",
+            "resultTime": "2024-11-03T11:14:03+00:00",
+            "result": 11.883345
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T11:14:03+00:00",
+            "resultTime": "2024-11-03T11:14:03+00:00",
+            "result": 66.7264
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T11:54:03+00:00",
+            "resultTime": "2024-11-03T11:54:03+00:00",
+            "result": 12.16907
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T11:54:03+00:00",
+            "resultTime": "2024-11-03T11:54:03+00:00",
+            "result": 65.94629
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T12:14:03+00:00",
+            "resultTime": "2024-11-03T12:14:03+00:00",
+            "result": 12.369345
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T12:14:03+00:00",
+            "resultTime": "2024-11-03T12:14:03+00:00",
+            "result": 65.02312
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T12:24:03+00:00",
+            "resultTime": "2024-11-03T12:24:03+00:00",
+            "result": 12.112993
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T12:24:03+00:00",
+            "resultTime": "2024-11-03T12:24:03+00:00",
+            "result": 65.76128
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T12:54:03+00:00",
+            "resultTime": "2024-11-03T12:54:03+00:00",
+            "result": 12.753872
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T12:54:03+00:00",
+            "resultTime": "2024-11-03T12:54:03+00:00",
+            "result": 63.964523
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T13:04:03+00:00",
+            "resultTime": "2024-11-03T13:04:03+00:00",
+            "result": 13.109026
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T13:04:03+00:00",
+            "resultTime": "2024-11-03T13:04:03+00:00",
+            "result": 63.476234
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T13:14:03+00:00",
+            "resultTime": "2024-11-03T13:14:03+00:00",
+            "result": 13.317311
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T13:14:03+00:00",
+            "resultTime": "2024-11-03T13:14:03+00:00",
+            "result": 63.165333
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T13:34:03+00:00",
+            "resultTime": "2024-11-03T13:34:03+00:00",
+            "result": 14.107729
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T13:34:03+00:00",
+            "resultTime": "2024-11-03T13:34:03+00:00",
+            "result": 60.594185
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T13:44:03+00:00",
+            "resultTime": "2024-11-03T13:44:03+00:00",
+            "result": 13.749905
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T13:44:03+00:00",
+            "resultTime": "2024-11-03T13:44:03+00:00",
+            "result": 61.93126
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T14:24:03+00:00",
+            "resultTime": "2024-11-03T14:24:03+00:00",
+            "result": 13.912795
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T14:24:03+00:00",
+            "resultTime": "2024-11-03T14:24:03+00:00",
+            "result": 62.434807
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T14:44:03+00:00",
+            "resultTime": "2024-11-03T14:44:03+00:00",
+            "result": 13.685817
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T14:44:03+00:00",
+            "resultTime": "2024-11-03T14:44:03+00:00",
+            "result": 63.285496
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T15:04:03+00:00",
+            "resultTime": "2024-11-03T15:04:03+00:00",
+            "result": 13.173114
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T15:04:03+00:00",
+            "resultTime": "2024-11-03T15:04:03+00:00",
+            "result": 65.27299
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T15:14:03+00:00",
+            "resultTime": "2024-11-03T15:14:03+00:00",
+            "result": 13.082322
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T15:14:03+00:00",
+            "resultTime": "2024-11-03T15:14:03+00:00",
+            "result": 65.88144
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T16:24:03+00:00",
+            "resultTime": "2024-11-03T16:24:03+00:00",
+            "result": 11.533532
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T16:24:03+00:00",
+            "resultTime": "2024-11-03T16:24:03+00:00",
+            "result": 70.430534
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T16:34:03+00:00",
+            "resultTime": "2024-11-03T16:34:03+00:00",
+            "result": 11.229115
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T16:34:03+00:00",
+            "resultTime": "2024-11-03T16:34:03+00:00",
+            "result": 71.21637
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T16:44:03+00:00",
+            "resultTime": "2024-11-03T16:44:03+00:00",
+            "result": 11.026169
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T16:44:03+00:00",
+            "resultTime": "2024-11-03T16:44:03+00:00",
+            "result": 71.93927
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T17:24:03+00:00",
+            "resultTime": "2024-11-03T17:24:03+00:00",
+            "result": 10.799191
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T17:24:03+00:00",
+            "resultTime": "2024-11-03T17:24:03+00:00",
+            "result": 73.25155
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T17:44:03+00:00",
+            "resultTime": "2024-11-03T17:44:03+00:00",
+            "result": 11.386663
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T17:44:03+00:00",
+            "resultTime": "2024-11-03T17:44:03+00:00",
+            "result": 72.559166
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T17:54:03+00:00",
+            "resultTime": "2024-11-03T17:54:03+00:00",
+            "result": 11.301213
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T17:54:03+00:00",
+            "resultTime": "2024-11-03T17:54:03+00:00",
+            "result": 72.99786
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T18:14:03+00:00",
+            "resultTime": "2024-11-03T18:14:03+00:00",
+            "result": 11.309224
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T18:14:03+00:00",
+            "resultTime": "2024-11-03T18:14:03+00:00",
+            "result": 72.49241
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T18:24:03+00:00",
+            "resultTime": "2024-11-03T18:24:03+00:00",
+            "result": 11.464103
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T18:24:03+00:00",
+            "resultTime": "2024-11-03T18:24:03+00:00",
+            "result": 72.33982
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T19:04:03+00:00",
+            "resultTime": "2024-11-03T19:04:03+00:00",
+            "result": 10.745785
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T19:04:03+00:00",
+            "resultTime": "2024-11-03T19:04:03+00:00",
+            "result": 73.89052
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T19:24:03+00:00",
+            "resultTime": "2024-11-03T19:24:03+00:00",
+            "result": 11.10895
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T19:24:03+00:00",
+            "resultTime": "2024-11-03T19:24:03+00:00",
+            "result": 73.190506
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T19:34:03+00:00",
+            "resultTime": "2024-11-03T19:34:03+00:00",
+            "result": 10.95407
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T19:34:03+00:00",
+            "resultTime": "2024-11-03T19:34:03+00:00",
+            "result": 73.341194
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T19:44:03+00:00",
+            "resultTime": "2024-11-03T19:44:03+00:00",
+            "result": 10.978104
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T19:44:03+00:00",
+            "resultTime": "2024-11-03T19:44:03+00:00",
+            "result": 73.27825
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T19:54:03+00:00",
+            "resultTime": "2024-11-03T19:54:03+00:00",
+            "result": 10.924697
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T19:54:03+00:00",
+            "resultTime": "2024-11-03T19:54:03+00:00",
+            "result": 73.6273
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T20:54:03+00:00",
+            "resultTime": "2024-11-03T20:54:03+00:00",
+            "result": 11.327916
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T20:54:03+00:00",
+            "resultTime": "2024-11-03T20:54:03+00:00",
+            "result": 73.1886
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T21:14:03+00:00",
+            "resultTime": "2024-11-03T21:14:03+00:00",
+            "result": 10.970093
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T21:14:03+00:00",
+            "resultTime": "2024-11-03T21:14:03+00:00",
+            "result": 74.279625
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T21:34:03+00:00",
+            "resultTime": "2024-11-03T21:34:03+00:00",
+            "result": 11.122301
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T21:34:03+00:00",
+            "resultTime": "2024-11-03T21:34:03+00:00",
+            "result": 73.678795
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T21:54:03+00:00",
+            "resultTime": "2024-11-03T21:54:03+00:00",
+            "result": 10.8926525
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T21:54:03+00:00",
+            "resultTime": "2024-11-03T21:54:03+00:00",
+            "result": 74.050735
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T22:04:03+00:00",
+            "resultTime": "2024-11-03T22:04:03+00:00",
+            "result": 8.574807
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T22:04:03+00:00",
+            "resultTime": "2024-11-03T22:04:03+00:00",
+            "result": 81.98161
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T22:14:03+00:00",
+            "resultTime": "2024-11-03T22:14:03+00:00",
+            "result": 8.476006
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T22:14:03+00:00",
+            "resultTime": "2024-11-03T22:14:03+00:00",
+            "result": 82.29061
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T22:24:03+00:00",
+            "resultTime": "2024-11-03T22:24:03+00:00",
+            "result": 8.427939
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T22:24:03+00:00",
+            "resultTime": "2024-11-03T22:24:03+00:00",
+            "result": 82.78081
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T22:34:03+00:00",
+            "resultTime": "2024-11-03T22:34:03+00:00",
+            "result": 8.422599
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T22:34:03+00:00",
+            "resultTime": "2024-11-03T22:34:03+00:00",
+            "result": 83.070724
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T23:04:03+00:00",
+            "resultTime": "2024-11-03T23:04:03+00:00",
+            "result": 10.428016
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T23:04:03+00:00",
+            "resultTime": "2024-11-03T23:04:03+00:00",
+            "result": 76.22514
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-03T23:14:03+00:00",
+            "resultTime": "2024-11-03T23:14:03+00:00",
+            "result": 10.358587
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-03T23:14:03+00:00",
+            "resultTime": "2024-11-03T23:14:03+00:00",
+            "result": 76.194626
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T00:04:03+00:00",
+            "resultTime": "2024-11-04T00:04:03+00:00",
+            "result": 10.201037
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T00:04:03+00:00",
+            "resultTime": "2024-11-04T00:04:03+00:00",
+            "result": 76.33578
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T00:14:03+00:00",
+            "resultTime": "2024-11-04T00:14:03+00:00",
+            "result": 10.179675
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T00:14:03+00:00",
+            "resultTime": "2024-11-04T00:14:03+00:00",
+            "result": 76.3415
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T00:34:03+00:00",
+            "resultTime": "2024-11-04T00:34:03+00:00",
+            "result": 10.110247
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T00:34:03+00:00",
+            "resultTime": "2024-11-04T00:34:03+00:00",
+            "result": 76.610435
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T00:44:03+00:00",
+            "resultTime": "2024-11-04T00:44:03+00:00",
+            "result": 9.765774
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T00:44:03+00:00",
+            "resultTime": "2024-11-04T00:44:03+00:00",
+            "result": 76.95949
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T00:54:03+00:00",
+            "resultTime": "2024-11-04T00:54:03+00:00",
+            "result": 10.022125
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T00:54:03+00:00",
+            "resultTime": "2024-11-04T00:54:03+00:00",
+            "result": 76.57038
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T01:34:03+00:00",
+            "resultTime": "2024-11-04T01:34:03+00:00",
+            "result": 9.966048
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T01:34:03+00:00",
+            "resultTime": "2024-11-04T01:34:03+00:00",
+            "result": 76.62379
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T03:44:03+00:00",
+            "resultTime": "2024-11-04T03:44:03+00:00",
+            "result": 9.010071
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T03:44:03+00:00",
+            "resultTime": "2024-11-04T03:44:03+00:00",
+            "result": 79.44671
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T04:34:03+00:00",
+            "resultTime": "2024-11-04T04:34:03+00:00",
+            "result": 9.434653
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T04:34:03+00:00",
+            "resultTime": "2024-11-04T04:34:03+00:00",
+            "result": 77.413445
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T04:54:03+00:00",
+            "resultTime": "2024-11-04T04:54:03+00:00",
+            "result": 9.49073
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T04:54:03+00:00",
+            "resultTime": "2024-11-04T04:54:03+00:00",
+            "result": 77.33524
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T05:24:03+00:00",
+            "resultTime": "2024-11-04T05:24:03+00:00",
+            "result": 9.602884
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T05:24:03+00:00",
+            "resultTime": "2024-11-04T05:24:03+00:00",
+            "result": 76.77829
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T05:34:03+00:00",
+            "resultTime": "2024-11-04T05:34:03+00:00",
+            "result": 9.506752
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T05:34:03+00:00",
+            "resultTime": "2024-11-04T05:34:03+00:00",
+            "result": 77.58892
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T06:04:03+00:00",
+            "resultTime": "2024-11-04T06:04:03+00:00",
+            "result": 9.397268
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T06:04:03+00:00",
+            "resultTime": "2024-11-04T06:04:03+00:00",
+            "result": 77.556496
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T06:14:03+00:00",
+            "resultTime": "2024-11-04T06:14:03+00:00",
+            "result": 9.146257
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T06:14:03+00:00",
+            "resultTime": "2024-11-04T06:14:03+00:00",
+            "result": 78.23361
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T07:14:03+00:00",
+            "resultTime": "2024-11-04T07:14:03+00:00",
+            "result": 9.282445
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T07:14:03+00:00",
+            "resultTime": "2024-11-04T07:14:03+00:00",
+            "result": 77.361946
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T07:34:03+00:00",
+            "resultTime": "2024-11-04T07:34:03+00:00",
+            "result": 9.381247
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T07:34:03+00:00",
+            "resultTime": "2024-11-04T07:34:03+00:00",
+            "result": 77.033875
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T07:44:03+00:00",
+            "resultTime": "2024-11-04T07:44:03+00:00",
+            "result": 9.40795
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T07:44:03+00:00",
+            "resultTime": "2024-11-04T07:44:03+00:00",
+            "result": 77.15022
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T08:24:03+00:00",
+            "resultTime": "2024-11-04T08:24:03+00:00",
+            "result": 9.293126
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T08:24:03+00:00",
+            "resultTime": "2024-11-04T08:24:03+00:00",
+            "result": 77.40391
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T09:34:03+00:00",
+            "resultTime": "2024-11-04T09:34:03+00:00",
+            "result": 9.562829
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T09:34:03+00:00",
+            "resultTime": "2024-11-04T09:34:03+00:00",
+            "result": 76.0325
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T10:04:03+00:00",
+            "resultTime": "2024-11-04T10:04:03+00:00",
+            "result": 9.757763
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T10:04:03+00:00",
+            "resultTime": "2024-11-04T10:04:03+00:00",
+            "result": 75.282906
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T10:14:03+00:00",
+            "resultTime": "2024-11-04T10:14:03+00:00",
+            "result": 9.448005
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T10:14:03+00:00",
+            "resultTime": "2024-11-04T10:14:03+00:00",
+            "result": 76.13168
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T10:24:03+00:00",
+            "resultTime": "2024-11-04T10:24:03+00:00",
+            "result": 9.480049
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T10:24:03+00:00",
+            "resultTime": "2024-11-04T10:24:03+00:00",
+            "result": 75.76547
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T10:34:03+00:00",
+            "resultTime": "2024-11-04T10:34:03+00:00",
+            "result": 9.757763
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T10:34:03+00:00",
+            "resultTime": "2024-11-04T10:34:03+00:00",
+            "result": 75.68154
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T10:54:03+00:00",
+            "resultTime": "2024-11-04T10:54:03+00:00",
+            "result": 9.904631
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T10:54:03+00:00",
+            "resultTime": "2024-11-04T10:54:03+00:00",
+            "result": 74.5848
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T11:14:03+00:00",
+            "resultTime": "2024-11-04T11:14:03+00:00",
+            "result": 10.086213
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T11:14:03+00:00",
+            "resultTime": "2024-11-04T11:14:03+00:00",
+            "result": 74.54856
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T11:15:26+00:00",
+            "resultTime": "2024-11-04T11:15:26+00:00",
+            "result": 10.086213
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T11:15:26+00:00",
+            "resultTime": "2024-11-04T11:15:26+00:00",
+            "result": 74.54856
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T11:24:03+00:00",
+            "resultTime": "2024-11-04T11:24:03+00:00",
+            "result": 10.460059
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T11:24:03+00:00",
+            "resultTime": "2024-11-04T11:24:03+00:00",
+            "result": 73.52239
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T11:34:03+00:00",
+            "resultTime": "2024-11-04T11:34:03+00:00",
+            "result": 10.852598
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T11:34:03+00:00",
+            "resultTime": "2024-11-04T11:34:03+00:00",
+            "result": 72.71557
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T11:44:03+00:00",
+            "resultTime": "2024-11-04T11:44:03+00:00",
+            "result": 10.430686
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T11:44:03+00:00",
+            "resultTime": "2024-11-04T11:44:03+00:00",
+            "result": 74.60578
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T12:04:03+00:00",
+            "resultTime": "2024-11-04T12:04:03+00:00",
+            "result": 11.066224
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T12:04:03+00:00",
+            "resultTime": "2024-11-04T12:04:03+00:00",
+            "result": 72.62592
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T12:14:03+00:00",
+            "resultTime": "2024-11-04T12:14:03+00:00",
+            "result": 11.242466
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T12:14:03+00:00",
+            "resultTime": "2024-11-04T12:14:03+00:00",
+            "result": 72.36843
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T13:04:03+00:00",
+            "resultTime": "2024-11-04T13:04:03+00:00",
+            "result": 11.149004
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T13:04:03+00:00",
+            "resultTime": "2024-11-04T13:04:03+00:00",
+            "result": 72.52293
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T13:14:03+00:00",
+            "resultTime": "2024-11-04T13:14:03+00:00",
+            "result": 11.210422
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T13:14:03+00:00",
+            "resultTime": "2024-11-04T13:14:03+00:00",
+            "result": 71.89159
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T13:34:03+00:00",
+            "resultTime": "2024-11-04T13:34:03+00:00",
+            "result": 10.729763
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T13:34:03+00:00",
+            "resultTime": "2024-11-04T13:34:03+00:00",
+            "result": 73.27825
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T13:44:03+00:00",
+            "resultTime": "2024-11-04T13:44:03+00:00",
+            "result": 11.11429
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T13:44:03+00:00",
+            "resultTime": "2024-11-04T13:44:03+00:00",
+            "result": 72.01366
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T14:24:03+00:00",
+            "resultTime": "2024-11-04T14:24:03+00:00",
+            "result": 11.19707
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T14:24:03+00:00",
+            "resultTime": "2024-11-04T14:24:03+00:00",
+            "result": 72.89296
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T14:54:03+00:00",
+            "resultTime": "2024-11-04T14:54:03+00:00",
+            "result": 11.039521
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T14:54:03+00:00",
+            "resultTime": "2024-11-04T14:54:03+00:00",
+            "result": 73.297325
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T15:04:03+00:00",
+            "resultTime": "2024-11-04T15:04:03+00:00",
+            "result": 10.825894
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T15:04:03+00:00",
+            "resultTime": "2024-11-04T15:04:03+00:00",
+            "result": 73.53002
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T15:14:03+00:00",
+            "resultTime": "2024-11-04T15:14:03+00:00",
+            "result": 10.612268
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T15:14:03+00:00",
+            "resultTime": "2024-11-04T15:14:03+00:00",
+            "result": 74.22049
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T15:34:03+00:00",
+            "resultTime": "2024-11-04T15:34:03+00:00",
+            "result": 10.590905
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T15:34:03+00:00",
+            "resultTime": "2024-11-04T15:34:03+00:00",
+            "result": 74.308235
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T16:04:03+00:00",
+            "resultTime": "2024-11-04T16:04:03+00:00",
+            "result": 10.497444
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T16:04:03+00:00",
+            "resultTime": "2024-11-04T16:04:03+00:00",
+            "result": 74.838486
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T16:14:03+00:00",
+            "resultTime": "2024-11-04T16:14:03+00:00",
+            "result": 10.598917
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T16:14:03+00:00",
+            "resultTime": "2024-11-04T16:14:03+00:00",
+            "result": 74.26246
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T16:44:03+00:00",
+            "resultTime": "2024-11-04T16:44:03+00:00",
+            "result": 10.585565
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T16:44:03+00:00",
+            "resultTime": "2024-11-04T16:44:03+00:00",
+            "result": 74.68589
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T16:54:03+00:00",
+            "resultTime": "2024-11-04T16:54:03+00:00",
+            "result": 10.644312
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T16:54:03+00:00",
+            "resultTime": "2024-11-04T16:54:03+00:00",
+            "result": 74.552376
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T17:04:03+00:00",
+            "resultTime": "2024-11-04T17:04:03+00:00",
+            "result": 10.478752
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T17:04:03+00:00",
+            "resultTime": "2024-11-04T17:04:03+00:00",
+            "result": 74.422676
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T17:34:03+00:00",
+            "resultTime": "2024-11-04T17:34:03+00:00",
+            "result": 10.401312
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T17:34:03+00:00",
+            "resultTime": "2024-11-04T17:34:03+00:00",
+            "result": 74.92813
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T17:44:03+00:00",
+            "resultTime": "2024-11-04T17:44:03+00:00",
+            "result": 10.417335
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T17:44:03+00:00",
+            "resultTime": "2024-11-04T17:44:03+00:00",
+            "result": 74.869
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T17:54:03+00:00",
+            "resultTime": "2024-11-04T17:54:03+00:00",
+            "result": 10.267796
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T17:54:03+00:00",
+            "resultTime": "2024-11-04T17:54:03+00:00",
+            "result": 75.79027
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T18:04:03+00:00",
+            "resultTime": "2024-11-04T18:04:03+00:00",
+            "result": 10.107576
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T18:04:03+00:00",
+            "resultTime": "2024-11-04T18:04:03+00:00",
+            "result": 75.721596
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T18:14:03+00:00",
+            "resultTime": "2024-11-04T18:14:03+00:00",
+            "result": 10.329213
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T18:14:03+00:00",
+            "resultTime": "2024-11-04T18:14:03+00:00",
+            "result": 75.19707
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T18:24:03+00:00",
+            "resultTime": "2024-11-04T18:24:03+00:00",
+            "result": 9.869917
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T18:24:03+00:00",
+            "resultTime": "2024-11-04T18:24:03+00:00",
+            "result": 76.97284
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T18:34:03+00:00",
+            "resultTime": "2024-11-04T18:34:03+00:00",
+            "result": 9.955367
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T18:34:03+00:00",
+            "resultTime": "2024-11-04T18:34:03+00:00",
+            "result": 76.29572
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T18:54:03+00:00",
+            "resultTime": "2024-11-04T18:54:03+00:00",
+            "result": 9.880598
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T18:54:03+00:00",
+            "resultTime": "2024-11-04T18:54:03+00:00",
+            "result": 75.83986
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T19:04:03+00:00",
+            "resultTime": "2024-11-04T19:04:03+00:00",
+            "result": 9.7070265
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T19:04:03+00:00",
+            "resultTime": "2024-11-04T19:04:03+00:00",
+            "result": 76.14694
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T19:24:03+00:00",
+            "resultTime": "2024-11-04T19:24:03+00:00",
+            "result": 9.856565
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T19:24:03+00:00",
+            "resultTime": "2024-11-04T19:24:03+00:00",
+            "result": 75.44503
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T19:34:03+00:00",
+            "resultTime": "2024-11-04T19:34:03+00:00",
+            "result": 9.418632
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T19:34:03+00:00",
+            "resultTime": "2024-11-04T19:34:03+00:00",
+            "result": 77.176926
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T19:44:03+00:00",
+            "resultTime": "2024-11-04T19:44:03+00:00",
+            "result": 9.920653
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T19:44:03+00:00",
+            "resultTime": "2024-11-04T19:44:03+00:00",
+            "result": 75.7979
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T20:04:03+00:00",
+            "resultTime": "2024-11-04T20:04:03+00:00",
+            "result": 9.581521
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T20:04:03+00:00",
+            "resultTime": "2024-11-04T20:04:03+00:00",
+            "result": 76.410164
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T20:14:03+00:00",
+            "resultTime": "2024-11-04T20:14:03+00:00",
+            "result": 9.715037
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T20:14:03+00:00",
+            "resultTime": "2024-11-04T20:14:03+00:00",
+            "result": 76.438774
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T20:24:03+00:00",
+            "resultTime": "2024-11-04T20:24:03+00:00",
+            "result": 9.736401
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T20:24:03+00:00",
+            "resultTime": "2024-11-04T20:24:03+00:00",
+            "result": 76.58564
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T20:34:03+00:00",
+            "resultTime": "2024-11-04T20:34:03+00:00",
+            "result": 9.9126425
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T20:34:03+00:00",
+            "resultTime": "2024-11-04T20:34:03+00:00",
+            "result": 76.064926
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T20:44:03+00:00",
+            "resultTime": "2024-11-04T20:44:03+00:00",
+            "result": 9.808499
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T20:44:03+00:00",
+            "resultTime": "2024-11-04T20:44:03+00:00",
+            "result": 76.7802
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T20:54:03+00:00",
+            "resultTime": "2024-11-04T20:54:03+00:00",
+            "result": 9.771114
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T20:54:03+00:00",
+            "resultTime": "2024-11-04T20:54:03+00:00",
+            "result": 76.63523
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T21:04:03+00:00",
+            "resultTime": "2024-11-04T21:04:03+00:00",
+            "result": 9.925994
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T21:04:03+00:00",
+            "resultTime": "2024-11-04T21:04:03+00:00",
+            "result": 76.087814
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T21:14:03+00:00",
+            "resultTime": "2024-11-04T21:14:03+00:00",
+            "result": 9.760433
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T21:14:03+00:00",
+            "resultTime": "2024-11-04T21:14:03+00:00",
+            "result": 76.33387
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T21:34:03+00:00",
+            "resultTime": "2024-11-04T21:34:03+00:00",
+            "result": 9.709697
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T21:34:03+00:00",
+            "resultTime": "2024-11-04T21:34:03+00:00",
+            "result": 76.88701
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T21:44:03+00:00",
+            "resultTime": "2024-11-04T21:44:03+00:00",
+            "result": 9.97139
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T21:44:03+00:00",
+            "resultTime": "2024-11-04T21:44:03+00:00",
+            "result": 76.12215
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T21:54:03+00:00",
+            "resultTime": "2024-11-04T21:54:03+00:00",
+            "result": 10.051499
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T21:54:03+00:00",
+            "resultTime": "2024-11-04T21:54:03+00:00",
+            "result": 76.06683
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T22:04:03+00:00",
+            "resultTime": "2024-11-04T22:04:03+00:00",
+            "result": 9.522774
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T22:04:03+00:00",
+            "resultTime": "2024-11-04T22:04:03+00:00",
+            "result": 76.84314
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T22:24:03+00:00",
+            "resultTime": "2024-11-04T22:24:03+00:00",
+            "result": 9.664302
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T22:24:03+00:00",
+            "resultTime": "2024-11-04T22:24:03+00:00",
+            "result": 76.62951
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T22:34:03+00:00",
+            "resultTime": "2024-11-04T22:34:03+00:00",
+            "result": 9.861906
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T22:34:03+00:00",
+            "resultTime": "2024-11-04T22:34:03+00:00",
+            "result": 76.03441
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T22:44:03+00:00",
+            "resultTime": "2024-11-04T22:44:03+00:00",
+            "result": 9.482719
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T22:44:03+00:00",
+            "resultTime": "2024-11-04T22:44:03+00:00",
+            "result": 76.25376
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T23:14:03+00:00",
+            "resultTime": "2024-11-04T23:14:03+00:00",
+            "result": 9.608225
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T23:14:03+00:00",
+            "resultTime": "2024-11-04T23:14:03+00:00",
+            "result": 76.16029
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T23:24:03+00:00",
+            "resultTime": "2024-11-04T23:24:03+00:00",
+            "result": 9.741741
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T23:24:03+00:00",
+            "resultTime": "2024-11-04T23:24:03+00:00",
+            "result": 75.75212
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T23:34:03+00:00",
+            "resultTime": "2024-11-04T23:34:03+00:00",
+            "result": 9.426642
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T23:34:03+00:00",
+            "resultTime": "2024-11-04T23:34:03+00:00",
+            "result": 76.40444
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2024-11-04T23:44:03+00:00",
+            "resultTime": "2024-11-04T23:44:03+00:00",
+            "result": 9.223698
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2024-11-04T23:44:03+00:00",
+            "resultTime": "2024-11-04T23:44:03+00:00",
+            "result": 77.07202
+        }
+    ]
+}
