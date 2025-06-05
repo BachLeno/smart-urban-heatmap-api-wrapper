@@ -1,0 +1,5176 @@
+{
+    "Things": [
+        {
+            "@iot.id": "11117",
+            "name": "Ittigen Papiermühle Kreisel",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11076",
+            "name": "Niederwangen Papillon Laterne/Bushäuschen",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": true,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11059",
+            "name": "Vordere Länggasse",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11129",
+            "name": "Stettlen Bernstrasse Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12005",
+            "name": "Marktplatz Lyss",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11060",
+            "name": "Liebefeld Turnierstrasse Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11050",
+            "name": "Bremgartenwald",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11126",
+            "name": "Bolligen Sternenkreisel Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11119",
+            "name": "Zollikofen 3m",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11115",
+            "name": "Gümligen (Worbstrasse) Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11094",
+            "name": "Wabern Gartentower Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11048",
+            "name": "Bern Lorrainepark",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11130",
+            "name": "Bremgarten Ecke Lindenstrasse / Ritterstrasse Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11087",
+            "name": "Oberwangen Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11068",
+            "name": "Helvetiaplatz",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11037",
+            "name": "Eigerplatz",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11089",
+            "name": "Niederwangen Zentrum Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11040",
+            "name": "Galgenfeld Neubausiedlung",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12006",
+            "name": "Monopoliplatz Lyss",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11096",
+            "name": "Köniz Bläuacker Park Aldi/Swisscom",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11120",
+            "name": "Zollikofen Reichenbach Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11080",
+            "name": "Wabern Weyergut",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11047",
+            "name": "Emch+Berger (Schlösslistrasse) Pfosten Eingang",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11070",
+            "name": "Hirschengraben",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11112",
+            "name": "Gümligen Dentenberg Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11110",
+            "name": "Muri Blümlisalpstrasse",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12009",
+            "name": "Bahnhofplatz Busswil",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11116",
+            "name": "Ittigen Worblaufenstrasse Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": true,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11123",
+            "name": "Kehrsatz Breitägertenstrasse Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11090",
+            "name": "Köniz Blinzernplateau Strom-/Telefonmast",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11077",
+            "name": "Morillongut (Schönegg) Mast",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11016",
+            "name": "Bern Bethlehem Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11121",
+            "name": "Zollikofen Zentrum Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11111",
+            "name": "Muri Zentrum (Tavelweg) Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11091",
+            "name": "Köniz Schliern Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": true,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11093",
+            "name": "Wabern Zentrum Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11056",
+            "name": "Zytglogge",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11122",
+            "name": "Kehrsatz Zentrum Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11049",
+            "name": "Bern-Ostring Freudenbergplatz Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11031",
+            "name": "Europaplatz 2",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11118",
+            "name": "Ittigen Gantrischweg 1 Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12004",
+            "name": "Industriering Nord",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12002",
+            "name": "Schulhaus Grentschel",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12001",
+            "name": "Mühleplatz Lyss",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11046",
+            "name": "Bern Merzenacker",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11066",
+            "name": "Bern Wankdorfplatz Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11127",
+            "name": "Ittigen Worblentalstrasse",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11124",
+            "name": "Belp Zentrum Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12008",
+            "name": "Sportanlage Grien",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11088",
+            "name": "Köniz Gartenstadt Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12010",
+            "name": "Reitplatz Grünau",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11033",
+            "name": "Stadtlabor",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12003",
+            "name": "Heilbachweg | Oberfeldweg",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11079",
+            "name": "Niederwangen Taubentränke Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11131",
+            "name": "Wohlen Hinterkappelenring Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": true,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11114",
+            "name": "Muri Süd (Steinhübeliweg) Laterne",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11133",
+            "name": "Bern Dalmaziquai",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "12007",
+            "name": "Spielplatz Stiglimatt",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11132",
+            "name": "Gurten Kulm",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11136",
+            "name": "BernExpo",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11139",
+            "name": "BernExpo Park 0.5m",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11138",
+            "name": "BernExpo Park 2.5m",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        },
+        {
+            "@iot.id": "11137",
+            "name": "BernExpo Asphalt 0.5m",
+            "description": "Sensor station measuring temperature and humidity",
+            "properties": {
+                "outdated": false,
+                "measurementsPlausible": true
+            }
+        }
+    ],
+    "Locations": [
+        {
+            "@iot.id": "11117",
+            "name": "Ittigen Papiermühle Kreisel",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.477217,
+                    46.974644
+                ]
+            }
+        },
+        {
+            "@iot.id": "11076",
+            "name": "Niederwangen Papillon Laterne/Bushäuschen",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.386227,
+                    46.928032
+                ]
+            }
+        },
+        {
+            "@iot.id": "11059",
+            "name": "Vordere Länggasse",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.43714,
+                    46.95171
+                ]
+            }
+        },
+        {
+            "@iot.id": "11129",
+            "name": "Stettlen Bernstrasse Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.525039,
+                    46.9585
+                ]
+            }
+        },
+        {
+            "@iot.id": "12005",
+            "name": "Marktplatz Lyss",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.30584,
+                    47.073505
+                ]
+            }
+        },
+        {
+            "@iot.id": "11060",
+            "name": "Liebefeld Turnierstrasse Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.4133654,
+                    46.938255
+                ]
+            }
+        },
+        {
+            "@iot.id": "11050",
+            "name": "Bremgartenwald",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.42128,
+                    46.95739
+                ]
+            }
+        },
+        {
+            "@iot.id": "11126",
+            "name": "Bolligen Sternenkreisel Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.497151,
+                    46.975468
+                ]
+            }
+        },
+        {
+            "@iot.id": "11119",
+            "name": "Zollikofen 3m",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.46407,
+                    46.99079
+                ]
+            }
+        },
+        {
+            "@iot.id": "11115",
+            "name": "Gümligen (Worbstrasse) Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.50045,
+                    46.93537
+                ]
+            }
+        },
+        {
+            "@iot.id": "11094",
+            "name": "Wabern Gartentower Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.455911,
+                    46.92579
+                ]
+            }
+        },
+        {
+            "@iot.id": "11048",
+            "name": "Bern Lorrainepark",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.445022,
+                    46.95565
+                ]
+            }
+        },
+        {
+            "@iot.id": "11130",
+            "name": "Bremgarten Ecke Lindenstrasse / Ritterstrasse Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.438822,
+                    46.977913
+                ]
+            }
+        },
+        {
+            "@iot.id": "11087",
+            "name": "Oberwangen Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.360659,
+                    46.916786
+                ]
+            }
+        },
+        {
+            "@iot.id": "11068",
+            "name": "Helvetiaplatz",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.44885,
+                    46.94381
+                ]
+            }
+        },
+        {
+            "@iot.id": "11037",
+            "name": "Eigerplatz",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.43141,
+                    46.94067
+                ]
+            }
+        },
+        {
+            "@iot.id": "11089",
+            "name": "Niederwangen Zentrum Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.377091,
+                    46.92567
+                ]
+            }
+        },
+        {
+            "@iot.id": "11040",
+            "name": "Galgenfeld Neubausiedlung",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.46987,
+                    46.95063
+                ]
+            }
+        },
+        {
+            "@iot.id": "12006",
+            "name": "Monopoliplatz Lyss",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.305877,
+                    47.07661
+                ]
+            }
+        },
+        {
+            "@iot.id": "11096",
+            "name": "Köniz Bläuacker Park Aldi/Swisscom",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.41453,
+                    46.92282
+                ]
+            }
+        },
+        {
+            "@iot.id": "11120",
+            "name": "Zollikofen Reichenbach Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.451387,
+                    46.99095
+                ]
+            }
+        },
+        {
+            "@iot.id": "11080",
+            "name": "Wabern Weyergut",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.45935,
+                    46.92921
+                ]
+            }
+        },
+        {
+            "@iot.id": "11047",
+            "name": "Emch+Berger (Schlösslistrasse) Pfosten Eingang",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.429253,
+                    46.946228
+                ]
+            }
+        },
+        {
+            "@iot.id": "11070",
+            "name": "Hirschengraben",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.43786,
+                    46.94658
+                ]
+            }
+        },
+        {
+            "@iot.id": "11112",
+            "name": "Gümligen Dentenberg Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.50944,
+                    46.9377
+                ]
+            }
+        },
+        {
+            "@iot.id": "11110",
+            "name": "Muri Blümlisalpstrasse",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.476338,
+                    46.927624
+                ]
+            }
+        },
+        {
+            "@iot.id": "12009",
+            "name": "Bahnhofplatz Busswil",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.319325,
+                    47.098705
+                ]
+            }
+        },
+        {
+            "@iot.id": "11116",
+            "name": "Ittigen Worblaufenstrasse Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.45978,
+                    46.97857
+                ]
+            }
+        },
+        {
+            "@iot.id": "11123",
+            "name": "Kehrsatz Breitägertenstrasse Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.464513,
+                    46.90957
+                ]
+            }
+        },
+        {
+            "@iot.id": "11090",
+            "name": "Köniz Blinzernplateau Strom-/Telefonmast",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.42771,
+                    46.92253
+                ]
+            }
+        },
+        {
+            "@iot.id": "11077",
+            "name": "Morillongut (Schönegg) Mast",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.44007,
+                    46.93354
+                ]
+            }
+        },
+        {
+            "@iot.id": "11016",
+            "name": "Bern Bethlehem Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.392484,
+                    46.951385
+                ]
+            }
+        },
+        {
+            "@iot.id": "11121",
+            "name": "Zollikofen Zentrum Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.456929,
+                    46.99266
+                ]
+            }
+        },
+        {
+            "@iot.id": "11111",
+            "name": "Muri Zentrum (Tavelweg) Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.48628,
+                    46.93048
+                ]
+            }
+        },
+        {
+            "@iot.id": "11091",
+            "name": "Köniz Schliern Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.415169,
+                    46.90915
+                ]
+            }
+        },
+        {
+            "@iot.id": "11093",
+            "name": "Wabern Zentrum Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.448146,
+                    46.93012
+                ]
+            }
+        },
+        {
+            "@iot.id": "11056",
+            "name": "Zytglogge",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.4474,
+                    46.94819
+                ]
+            }
+        },
+        {
+            "@iot.id": "11122",
+            "name": "Kehrsatz Zentrum Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.470893,
+                    46.90922
+                ]
+            }
+        },
+        {
+            "@iot.id": "11049",
+            "name": "Bern-Ostring Freudenbergplatz Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.471829,
+                    46.94506
+                ]
+            }
+        },
+        {
+            "@iot.id": "11031",
+            "name": "Europaplatz 2",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.40633,
+                    46.94333
+                ]
+            }
+        },
+        {
+            "@iot.id": "11118",
+            "name": "Ittigen Gantrischweg 1 Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.490017,
+                    46.980637
+                ]
+            }
+        },
+        {
+            "@iot.id": "12004",
+            "name": "Industriering Nord",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.30673,
+                    47.089134
+                ]
+            }
+        },
+        {
+            "@iot.id": "12002",
+            "name": "Schulhaus Grentschel",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.311275,
+                    47.078552
+                ]
+            }
+        },
+        {
+            "@iot.id": "12001",
+            "name": "Mühleplatz Lyss",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.308954,
+                    47.0709
+                ]
+            }
+        },
+        {
+            "@iot.id": "11046",
+            "name": "Bern Merzenacker",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.481412,
+                    46.94348
+                ]
+            }
+        },
+        {
+            "@iot.id": "11066",
+            "name": "Bern Wankdorfplatz Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.46747,
+                    46.9645
+                ]
+            }
+        },
+        {
+            "@iot.id": "11127",
+            "name": "Ittigen Worblentalstrasse",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.489671,
+                    46.971962
+                ]
+            }
+        },
+        {
+            "@iot.id": "11124",
+            "name": "Belp Zentrum Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.498633,
+                    46.892506
+                ]
+            }
+        },
+        {
+            "@iot.id": "12008",
+            "name": "Sportanlage Grien",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.29574,
+                    47.075085
+                ]
+            }
+        },
+        {
+            "@iot.id": "11088",
+            "name": "Köniz Gartenstadt Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.40896,
+                    46.92981
+                ]
+            }
+        },
+        {
+            "@iot.id": "12010",
+            "name": "Reitplatz Grünau",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.301668,
+                    47.077145
+                ]
+            }
+        },
+        {
+            "@iot.id": "11033",
+            "name": "Stadtlabor",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.46257,
+                    46.96311
+                ]
+            }
+        },
+        {
+            "@iot.id": "12003",
+            "name": "Heilbachweg | Oberfeldweg",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.310936,
+                    47.075108
+                ]
+            }
+        },
+        {
+            "@iot.id": "11079",
+            "name": "Niederwangen Taubentränke Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.38989,
+                    46.92674
+                ]
+            }
+        },
+        {
+            "@iot.id": "11131",
+            "name": "Wohlen Hinterkappelenring Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.37621,
+                    46.96733
+                ]
+            }
+        },
+        {
+            "@iot.id": "11114",
+            "name": "Muri Süd (Steinhübeliweg) Laterne",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.49843,
+                    46.92646
+                ]
+            }
+        },
+        {
+            "@iot.id": "11133",
+            "name": "Bern Dalmaziquai",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.445644,
+                    46.9417
+                ]
+            }
+        },
+        {
+            "@iot.id": "12007",
+            "name": "Spielplatz Stiglimatt",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.299204,
+                    47.071545
+                ]
+            }
+        },
+        {
+            "@iot.id": "11132",
+            "name": "Gurten Kulm",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.43961,
+                    46.91931
+                ]
+            }
+        },
+        {
+            "@iot.id": "11136",
+            "name": "BernExpo",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.46684,
+                    46.96002
+                ]
+            }
+        },
+        {
+            "@iot.id": "11139",
+            "name": "BernExpo Park 0.5m",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.46599,
+                    46.95973
+                ]
+            }
+        },
+        {
+            "@iot.id": "11138",
+            "name": "BernExpo Park 2.5m",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.46602,
+                    46.95975
+                ]
+            }
+        },
+        {
+            "@iot.id": "11137",
+            "name": "BernExpo Asphalt 0.5m",
+            "description": "Geographic location of the sensor",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    7.46681,
+                    46.96
+                ]
+            }
+        }
+    ],
+    "Datastreams": [
+        {
+            "@iot.id": "11117-temperature",
+            "name": "Temperature Datastream for Ittigen Papiermühle Kreisel",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11117"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11117-humidity",
+            "name": "Humidity Datastream for Ittigen Papiermühle Kreisel",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11117"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11076-temperature",
+            "name": "Temperature Datastream for Niederwangen Papillon Laterne/Bushäuschen",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11076"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11076-humidity",
+            "name": "Humidity Datastream for Niederwangen Papillon Laterne/Bushäuschen",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11076"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11059-temperature",
+            "name": "Temperature Datastream for Vordere Länggasse",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11059"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11059-humidity",
+            "name": "Humidity Datastream for Vordere Länggasse",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11059"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11129-temperature",
+            "name": "Temperature Datastream for Stettlen Bernstrasse Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11129"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11129-humidity",
+            "name": "Humidity Datastream for Stettlen Bernstrasse Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11129"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12005-temperature",
+            "name": "Temperature Datastream for Marktplatz Lyss",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12005"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12005-humidity",
+            "name": "Humidity Datastream for Marktplatz Lyss",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12005"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11060-temperature",
+            "name": "Temperature Datastream for Liebefeld Turnierstrasse Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11060"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11060-humidity",
+            "name": "Humidity Datastream for Liebefeld Turnierstrasse Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11060"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11050-temperature",
+            "name": "Temperature Datastream for Bremgartenwald",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11050"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11050-humidity",
+            "name": "Humidity Datastream for Bremgartenwald",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11050"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11126-temperature",
+            "name": "Temperature Datastream for Bolligen Sternenkreisel Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11126"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11126-humidity",
+            "name": "Humidity Datastream for Bolligen Sternenkreisel Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11126"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11119-temperature",
+            "name": "Temperature Datastream for Zollikofen 3m",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11119"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11119-humidity",
+            "name": "Humidity Datastream for Zollikofen 3m",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11119"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11115-temperature",
+            "name": "Temperature Datastream for Gümligen (Worbstrasse) Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11115"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11115-humidity",
+            "name": "Humidity Datastream for Gümligen (Worbstrasse) Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11115"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11094-temperature",
+            "name": "Temperature Datastream for Wabern Gartentower Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11094"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11094-humidity",
+            "name": "Humidity Datastream for Wabern Gartentower Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11094"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11048-temperature",
+            "name": "Temperature Datastream for Bern Lorrainepark",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11048"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11048-humidity",
+            "name": "Humidity Datastream for Bern Lorrainepark",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11048"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11130-temperature",
+            "name": "Temperature Datastream for Bremgarten Ecke Lindenstrasse / Ritterstrasse Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11130"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11130-humidity",
+            "name": "Humidity Datastream for Bremgarten Ecke Lindenstrasse / Ritterstrasse Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11130"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11087-temperature",
+            "name": "Temperature Datastream for Oberwangen Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11087"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11087-humidity",
+            "name": "Humidity Datastream for Oberwangen Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11087"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11068-temperature",
+            "name": "Temperature Datastream for Helvetiaplatz",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11068"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11068-humidity",
+            "name": "Humidity Datastream for Helvetiaplatz",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11068"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11037-temperature",
+            "name": "Temperature Datastream for Eigerplatz",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11037"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11037-humidity",
+            "name": "Humidity Datastream for Eigerplatz",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11037"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11089-temperature",
+            "name": "Temperature Datastream for Niederwangen Zentrum Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11089"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11089-humidity",
+            "name": "Humidity Datastream for Niederwangen Zentrum Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11089"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11040-temperature",
+            "name": "Temperature Datastream for Galgenfeld Neubausiedlung",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11040"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11040-humidity",
+            "name": "Humidity Datastream for Galgenfeld Neubausiedlung",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11040"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12006-temperature",
+            "name": "Temperature Datastream for Monopoliplatz Lyss",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12006"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12006-humidity",
+            "name": "Humidity Datastream for Monopoliplatz Lyss",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12006"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11096-temperature",
+            "name": "Temperature Datastream for Köniz Bläuacker Park Aldi/Swisscom",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11096"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11096-humidity",
+            "name": "Humidity Datastream for Köniz Bläuacker Park Aldi/Swisscom",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11096"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11120-temperature",
+            "name": "Temperature Datastream for Zollikofen Reichenbach Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11120"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11120-humidity",
+            "name": "Humidity Datastream for Zollikofen Reichenbach Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11120"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11080-temperature",
+            "name": "Temperature Datastream for Wabern Weyergut",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11080"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11080-humidity",
+            "name": "Humidity Datastream for Wabern Weyergut",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11080"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11047-temperature",
+            "name": "Temperature Datastream for Emch+Berger (Schlösslistrasse) Pfosten Eingang",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11047"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11047-humidity",
+            "name": "Humidity Datastream for Emch+Berger (Schlösslistrasse) Pfosten Eingang",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11047"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11070-temperature",
+            "name": "Temperature Datastream for Hirschengraben",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11070"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11070-humidity",
+            "name": "Humidity Datastream for Hirschengraben",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11070"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11112-temperature",
+            "name": "Temperature Datastream for Gümligen Dentenberg Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11112"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11112-humidity",
+            "name": "Humidity Datastream for Gümligen Dentenberg Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11112"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11110-temperature",
+            "name": "Temperature Datastream for Muri Blümlisalpstrasse",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11110"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11110-humidity",
+            "name": "Humidity Datastream for Muri Blümlisalpstrasse",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11110"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12009-temperature",
+            "name": "Temperature Datastream for Bahnhofplatz Busswil",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12009"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12009-humidity",
+            "name": "Humidity Datastream for Bahnhofplatz Busswil",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12009"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11116-temperature",
+            "name": "Temperature Datastream for Ittigen Worblaufenstrasse Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11116"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11116-humidity",
+            "name": "Humidity Datastream for Ittigen Worblaufenstrasse Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11116"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11123-temperature",
+            "name": "Temperature Datastream for Kehrsatz Breitägertenstrasse Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11123"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11123-humidity",
+            "name": "Humidity Datastream for Kehrsatz Breitägertenstrasse Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11123"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11090-temperature",
+            "name": "Temperature Datastream for Köniz Blinzernplateau Strom-/Telefonmast",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11090"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11090-humidity",
+            "name": "Humidity Datastream for Köniz Blinzernplateau Strom-/Telefonmast",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11090"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11077-temperature",
+            "name": "Temperature Datastream for Morillongut (Schönegg) Mast",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11077"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11077-humidity",
+            "name": "Humidity Datastream for Morillongut (Schönegg) Mast",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11077"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11016-temperature",
+            "name": "Temperature Datastream for Bern Bethlehem Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11016"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11016-humidity",
+            "name": "Humidity Datastream for Bern Bethlehem Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11016"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11121-temperature",
+            "name": "Temperature Datastream for Zollikofen Zentrum Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11121"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11121-humidity",
+            "name": "Humidity Datastream for Zollikofen Zentrum Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11121"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11111-temperature",
+            "name": "Temperature Datastream for Muri Zentrum (Tavelweg) Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11111"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11111-humidity",
+            "name": "Humidity Datastream for Muri Zentrum (Tavelweg) Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11111"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11091-temperature",
+            "name": "Temperature Datastream for Köniz Schliern Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11091"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11091-humidity",
+            "name": "Humidity Datastream for Köniz Schliern Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11091"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11093-temperature",
+            "name": "Temperature Datastream for Wabern Zentrum Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11093"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11093-humidity",
+            "name": "Humidity Datastream for Wabern Zentrum Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11093"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11056-temperature",
+            "name": "Temperature Datastream for Zytglogge",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11056"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11056-humidity",
+            "name": "Humidity Datastream for Zytglogge",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11056"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11122-temperature",
+            "name": "Temperature Datastream for Kehrsatz Zentrum Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11122"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11122-humidity",
+            "name": "Humidity Datastream for Kehrsatz Zentrum Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11122"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11049-temperature",
+            "name": "Temperature Datastream for Bern-Ostring Freudenbergplatz Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11049"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11049-humidity",
+            "name": "Humidity Datastream for Bern-Ostring Freudenbergplatz Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11049"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11031-temperature",
+            "name": "Temperature Datastream for Europaplatz 2",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11031"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11031-humidity",
+            "name": "Humidity Datastream for Europaplatz 2",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11031"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11118-temperature",
+            "name": "Temperature Datastream for Ittigen Gantrischweg 1 Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11118"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11118-humidity",
+            "name": "Humidity Datastream for Ittigen Gantrischweg 1 Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11118"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12004-temperature",
+            "name": "Temperature Datastream for Industriering Nord",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12004"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12004-humidity",
+            "name": "Humidity Datastream for Industriering Nord",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12004"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12002-temperature",
+            "name": "Temperature Datastream for Schulhaus Grentschel",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12002"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12002-humidity",
+            "name": "Humidity Datastream for Schulhaus Grentschel",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12002"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12001-temperature",
+            "name": "Temperature Datastream for Mühleplatz Lyss",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12001"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12001-humidity",
+            "name": "Humidity Datastream for Mühleplatz Lyss",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12001"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11046-temperature",
+            "name": "Temperature Datastream for Bern Merzenacker",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11046"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11046-humidity",
+            "name": "Humidity Datastream for Bern Merzenacker",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11046"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11066-temperature",
+            "name": "Temperature Datastream for Bern Wankdorfplatz Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11066"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11066-humidity",
+            "name": "Humidity Datastream for Bern Wankdorfplatz Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11066"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11127-temperature",
+            "name": "Temperature Datastream for Ittigen Worblentalstrasse",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11127"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11127-humidity",
+            "name": "Humidity Datastream for Ittigen Worblentalstrasse",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11127"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11124-temperature",
+            "name": "Temperature Datastream for Belp Zentrum Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11124"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11124-humidity",
+            "name": "Humidity Datastream for Belp Zentrum Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11124"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12008-temperature",
+            "name": "Temperature Datastream for Sportanlage Grien",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12008"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12008-humidity",
+            "name": "Humidity Datastream for Sportanlage Grien",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12008"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11088-temperature",
+            "name": "Temperature Datastream for Köniz Gartenstadt Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11088"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11088-humidity",
+            "name": "Humidity Datastream for Köniz Gartenstadt Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11088"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12010-temperature",
+            "name": "Temperature Datastream for Reitplatz Grünau",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12010"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12010-humidity",
+            "name": "Humidity Datastream for Reitplatz Grünau",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12010"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11033-temperature",
+            "name": "Temperature Datastream for Stadtlabor",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11033"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11033-humidity",
+            "name": "Humidity Datastream for Stadtlabor",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11033"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12003-temperature",
+            "name": "Temperature Datastream for Heilbachweg | Oberfeldweg",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12003"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12003-humidity",
+            "name": "Humidity Datastream for Heilbachweg | Oberfeldweg",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12003"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11079-temperature",
+            "name": "Temperature Datastream for Niederwangen Taubentränke Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11079"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11079-humidity",
+            "name": "Humidity Datastream for Niederwangen Taubentränke Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11079"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11131-temperature",
+            "name": "Temperature Datastream for Wohlen Hinterkappelenring Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11131"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11131-humidity",
+            "name": "Humidity Datastream for Wohlen Hinterkappelenring Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11131"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11114-temperature",
+            "name": "Temperature Datastream for Muri Süd (Steinhübeliweg) Laterne",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11114"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11114-humidity",
+            "name": "Humidity Datastream for Muri Süd (Steinhübeliweg) Laterne",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11114"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11133-temperature",
+            "name": "Temperature Datastream for Bern Dalmaziquai",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11133"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11133-humidity",
+            "name": "Humidity Datastream for Bern Dalmaziquai",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11133"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "12007-temperature",
+            "name": "Temperature Datastream for Spielplatz Stiglimatt",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12007"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "12007-humidity",
+            "name": "Humidity Datastream for Spielplatz Stiglimatt",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "12007"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11132-temperature",
+            "name": "Temperature Datastream for Gurten Kulm",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11132"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11132-humidity",
+            "name": "Humidity Datastream for Gurten Kulm",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11132"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11136-temperature",
+            "name": "Temperature Datastream for BernExpo",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11136"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11136-humidity",
+            "name": "Humidity Datastream for BernExpo",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11136"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11139-temperature",
+            "name": "Temperature Datastream for BernExpo Park 0.5m",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11139"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11139-humidity",
+            "name": "Humidity Datastream for BernExpo Park 0.5m",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11139"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11138-temperature",
+            "name": "Temperature Datastream for BernExpo Park 2.5m",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11138"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11138-humidity",
+            "name": "Humidity Datastream for BernExpo Park 2.5m",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11138"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        },
+        {
+            "@iot.id": "11137-temperature",
+            "name": "Temperature Datastream for BernExpo Asphalt 0.5m",
+            "description": "Temperature measurements",
+            "unitOfMeasurement": {
+                "symbol": "°C",
+                "name": "Degree Celsius",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11137"
+            },
+            "ObservedProperty": {
+                "name": "Temperature",
+                "definition": "http://sensorthings.org/Temperature"
+            },
+            "Sensor": {
+                "name": "Temperature Sensor",
+                "description": "Measures air temperature"
+            }
+        },
+        {
+            "@iot.id": "11137-humidity",
+            "name": "Humidity Datastream for BernExpo Asphalt 0.5m",
+            "description": "Humidity measurements",
+            "unitOfMeasurement": {
+                "symbol": "%",
+                "name": "Percentage",
+                "definition": "http://unitsofmeasure.org/ucum.html#para-30"
+            },
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "Thing": {
+                "@iot.id": "11137"
+            },
+            "ObservedProperty": {
+                "name": "Humidity",
+                "definition": "http://sensorthings.org/Humidity"
+            },
+            "Sensor": {
+                "name": "Humidity Sensor",
+                "description": "Measures relative humidity"
+            }
+        }
+    ],
+    "Observations": [
+        {
+            "Datastream": {
+                "@iot.id": "11117-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:39:52Z",
+            "resultTime": "2025-06-05T18:39:52Z",
+            "result": 19.950409
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11117-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:39:52Z",
+            "resultTime": "2025-06-05T18:39:52Z",
+            "result": 60.57702
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11076-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:11:34Z",
+            "resultTime": "2025-06-05T18:11:34Z",
+            "result": 19.210728
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11076-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:11:34Z",
+            "resultTime": "2025-06-05T18:11:34Z",
+            "result": 64.80759
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11059-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:43:48Z",
+            "resultTime": "2025-06-05T18:43:48Z",
+            "result": 19.111925
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11059-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:43:48Z",
+            "resultTime": "2025-06-05T18:43:48Z",
+            "result": 69.061035
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11129-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:44:29Z",
+            "resultTime": "2025-06-05T18:44:29Z",
+            "result": 19.376287
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11129-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:44:29Z",
+            "resultTime": "2025-06-05T18:44:29Z",
+            "result": 66.84276
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12005-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:41:38Z",
+            "resultTime": "2025-06-05T18:41:38Z",
+            "result": 19.694057
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12005-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:41:38Z",
+            "resultTime": "2025-06-05T18:41:38Z",
+            "result": 60.95659
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11060-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:59Z",
+            "resultTime": "2025-06-05T18:46:59Z",
+            "result": 17.037079
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11060-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:59Z",
+            "resultTime": "2025-06-05T18:46:59Z",
+            "result": 78.62844
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11050-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:39:04Z",
+            "resultTime": "2025-06-05T18:39:04Z",
+            "result": 17.13054
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11050-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:39:04Z",
+            "resultTime": "2025-06-05T18:39:04Z",
+            "result": 82.55573
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11126-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:42:32Z",
+            "resultTime": "2025-06-05T18:42:32Z",
+            "result": 18.949036
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11126-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:42:32Z",
+            "resultTime": "2025-06-05T18:42:32Z",
+            "result": 67.2166
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11119-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:41Z",
+            "resultTime": "2025-06-05T18:46:41Z",
+            "result": 18.217365
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11119-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:41Z",
+            "resultTime": "2025-06-05T18:46:41Z",
+            "result": 69.13542
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11115-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:40:35Z",
+            "resultTime": "2025-06-05T18:40:35Z",
+            "result": 18.382925
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11115-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:40:35Z",
+            "resultTime": "2025-06-05T18:40:35Z",
+            "result": 68.065384
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11094-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:45:39Z",
+            "resultTime": "2025-06-05T18:45:39Z",
+            "result": 18.711376
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11094-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:45:39Z",
+            "resultTime": "2025-06-05T18:45:39Z",
+            "result": 67.47028
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11048-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:48:23Z",
+            "resultTime": "2025-06-05T18:48:23Z",
+            "result": 19.101244
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11048-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:48:23Z",
+            "resultTime": "2025-06-05T18:48:23Z",
+            "result": 61.545967
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11130-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:43:14Z",
+            "resultTime": "2025-06-05T18:43:14Z",
+            "result": 18.868925
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11130-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:43:14Z",
+            "resultTime": "2025-06-05T18:43:14Z",
+            "result": 66.285805
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11087-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:38:28Z",
+            "resultTime": "2025-06-05T18:38:28Z",
+            "result": 17.888914
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11087-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:38:28Z",
+            "resultTime": "2025-06-05T18:38:28Z",
+            "result": 72.072784
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11068-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:43:28Z",
+            "resultTime": "2025-06-05T18:43:28Z",
+            "result": 19.675364
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11068-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:43:28Z",
+            "resultTime": "2025-06-05T18:43:28Z",
+            "result": 68.603264
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11037-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:42:29Z",
+            "resultTime": "2025-06-05T18:42:29Z",
+            "result": 19.520485
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11037-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:42:29Z",
+            "resultTime": "2025-06-05T18:42:29Z",
+            "result": 72.13573
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11089-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:59Z",
+            "resultTime": "2025-06-05T18:46:59Z",
+            "result": 18.682001
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11089-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:59Z",
+            "resultTime": "2025-06-05T18:46:59Z",
+            "result": 67.22232
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11040-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:45:47Z",
+            "resultTime": "2025-06-05T18:45:47Z",
+            "result": 18.99443
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11040-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:45:47Z",
+            "resultTime": "2025-06-05T18:45:47Z",
+            "result": 71.025635
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12006-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:07Z",
+            "resultTime": "2025-06-05T18:46:07Z",
+            "result": 20.951782
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12006-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:07Z",
+            "resultTime": "2025-06-05T18:46:07Z",
+            "result": 56.756542
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11096-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:29:59Z",
+            "resultTime": "2025-06-05T18:29:59Z",
+            "result": 18.495079
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11096-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:29:59Z",
+            "resultTime": "2025-06-05T18:29:59Z",
+            "result": 70.16922
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11120-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:25Z",
+            "resultTime": "2025-06-05T18:46:25Z",
+            "result": 18.633936
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11120-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:25Z",
+            "resultTime": "2025-06-05T18:46:25Z",
+            "result": 68.87602
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11080-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:45:35Z",
+            "resultTime": "2025-06-05T18:45:35Z",
+            "result": 18.588541
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11080-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:45:35Z",
+            "resultTime": "2025-06-05T18:45:35Z",
+            "result": 68.897
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11047-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:42:26Z",
+            "resultTime": "2025-06-05T18:42:26Z",
+            "result": 19.678034
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11047-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:42:26Z",
+            "resultTime": "2025-06-05T18:42:26Z",
+            "result": 58.373997
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11070-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:31:42Z",
+            "resultTime": "2025-06-05T18:31:42Z",
+            "result": 19.760815
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11070-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:31:42Z",
+            "resultTime": "2025-06-05T18:31:42Z",
+            "result": 64.32502
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11112-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:42:48Z",
+            "resultTime": "2025-06-05T18:42:48Z",
+            "result": 17.742046
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11112-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:42:48Z",
+            "resultTime": "2025-06-05T18:42:48Z",
+            "result": 70.06241
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11110-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:41:55Z",
+            "resultTime": "2025-06-05T18:41:55Z",
+            "result": 18.564508
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11110-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:41:55Z",
+            "resultTime": "2025-06-05T18:41:55Z",
+            "result": 70.50683
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12009-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:34:28Z",
+            "resultTime": "2025-06-05T18:34:28Z",
+            "result": 19.437706
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12009-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:34:28Z",
+            "resultTime": "2025-06-05T18:34:28Z",
+            "result": 61.179752
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11116-temperature"
+            },
+            "phenomenonTime": "2025-05-26T06:38:50Z",
+            "resultTime": "2025-05-26T06:38:50Z",
+            "result": 16.484322
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11116-humidity"
+            },
+            "phenomenonTime": "2025-05-26T06:38:50Z",
+            "resultTime": "2025-05-26T06:38:50Z",
+            "result": 70.22644
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11123-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:52Z",
+            "resultTime": "2025-06-05T18:46:52Z",
+            "result": 16.80209
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11123-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:52Z",
+            "resultTime": "2025-06-05T18:46:52Z",
+            "result": 73.24963
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11090-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:40:36Z",
+            "resultTime": "2025-06-05T18:40:36Z",
+            "result": 17.461662
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11090-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:40:36Z",
+            "resultTime": "2025-06-05T18:40:36Z",
+            "result": 73.06653
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11077-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:47:40Z",
+            "resultTime": "2025-06-05T18:47:40Z",
+            "result": 18.241398
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11077-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:47:40Z",
+            "resultTime": "2025-06-05T18:47:40Z",
+            "result": 69.7248
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11016-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:45:19Z",
+            "resultTime": "2025-06-05T18:45:19Z",
+            "result": 18.74342
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11016-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:45:19Z",
+            "resultTime": "2025-06-05T18:45:19Z",
+            "result": 65.48661
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11121-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:47:53Z",
+            "resultTime": "2025-06-05T18:47:53Z",
+            "result": 18.946365
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11121-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:47:53Z",
+            "resultTime": "2025-06-05T18:47:53Z",
+            "result": 66.638664
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11111-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:45:20Z",
+            "resultTime": "2025-06-05T18:45:20Z",
+            "result": 18.50042
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11111-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:45:20Z",
+            "resultTime": "2025-06-05T18:45:20Z",
+            "result": 68.82262
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11091-temperature"
+            },
+            "phenomenonTime": "2025-06-05T17:37:10Z",
+            "resultTime": "2025-06-05T17:37:10Z",
+            "result": 19.16266
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11091-humidity"
+            },
+            "phenomenonTime": "2025-06-05T17:37:10Z",
+            "resultTime": "2025-06-05T17:37:10Z",
+            "result": 62.028534
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11093-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:01Z",
+            "resultTime": "2025-06-05T18:46:01Z",
+            "result": 18.644617
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11093-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:01Z",
+            "resultTime": "2025-06-05T18:46:01Z",
+            "result": 71.47196
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11056-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:47:45Z",
+            "resultTime": "2025-06-05T18:47:45Z",
+            "result": 20.13199
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11056-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:47:45Z",
+            "resultTime": "2025-06-05T18:47:45Z",
+            "result": 63.630733
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11122-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:48:23Z",
+            "resultTime": "2025-06-05T18:48:23Z",
+            "result": 17.886244
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11122-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:48:23Z",
+            "resultTime": "2025-06-05T18:48:23Z",
+            "result": 71.49294
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11049-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:05Z",
+            "resultTime": "2025-06-05T18:46:05Z",
+            "result": 19.085222
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11049-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:05Z",
+            "resultTime": "2025-06-05T18:46:05Z",
+            "result": 64.838104
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11031-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:45:37Z",
+            "resultTime": "2025-06-05T18:45:37Z",
+            "result": 19.595255
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11031-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:45:37Z",
+            "resultTime": "2025-06-05T18:45:37Z",
+            "result": 67.71824
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11118-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:39:17Z",
+            "resultTime": "2025-06-05T18:39:17Z",
+            "result": 18.26276
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11118-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:39:17Z",
+            "resultTime": "2025-06-05T18:39:17Z",
+            "result": 67.44358
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12004-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:31Z",
+            "resultTime": "2025-06-05T18:46:31Z",
+            "result": 21.360342
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12004-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:31Z",
+            "resultTime": "2025-06-05T18:46:31Z",
+            "result": 58.803158
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12002-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:48:11Z",
+            "resultTime": "2025-06-05T18:48:11Z",
+            "result": 19.918364
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12002-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:48:11Z",
+            "resultTime": "2025-06-05T18:48:11Z",
+            "result": 57.620583
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12001-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:48:38Z",
+            "resultTime": "2025-06-05T18:48:38Z",
+            "result": 19.411001
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12001-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:48:38Z",
+            "resultTime": "2025-06-05T18:48:38Z",
+            "result": 62.028534
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11046-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:41:12Z",
+            "resultTime": "2025-06-05T18:41:12Z",
+            "result": 18.374914
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11046-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:41:12Z",
+            "resultTime": "2025-06-05T18:41:12Z",
+            "result": 66.65392
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11066-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:48:26Z",
+            "resultTime": "2025-06-05T18:48:26Z",
+            "result": 19.23209
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11066-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:48:26Z",
+            "resultTime": "2025-06-05T18:48:26Z",
+            "result": 62.846798
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11127-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:47:27Z",
+            "resultTime": "2025-06-05T18:47:27Z",
+            "result": 19.194706
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11127-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:47:27Z",
+            "resultTime": "2025-06-05T18:47:27Z",
+            "result": 65.65064
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11124-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:15:29Z",
+            "resultTime": "2025-06-05T18:15:29Z",
+            "result": 20.276188
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11124-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:15:29Z",
+            "resultTime": "2025-06-05T18:15:29Z",
+            "result": 61.10727
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12008-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:40:56Z",
+            "resultTime": "2025-06-05T18:40:56Z",
+            "result": 19.061188
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12008-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:40:56Z",
+            "resultTime": "2025-06-05T18:40:56Z",
+            "result": 62.70947
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11088-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:42:11Z",
+            "resultTime": "2025-06-05T18:42:11Z",
+            "result": 18.083849
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11088-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:42:11Z",
+            "resultTime": "2025-06-05T18:42:11Z",
+            "result": 71.51583
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12010-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:58Z",
+            "resultTime": "2025-06-05T18:46:58Z",
+            "result": 18.957047
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12010-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:58Z",
+            "resultTime": "2025-06-05T18:46:58Z",
+            "result": 63.60975
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11033-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:39:33Z",
+            "resultTime": "2025-06-05T18:39:33Z",
+            "result": 19.290836
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11033-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:39:33Z",
+            "resultTime": "2025-06-05T18:39:33Z",
+            "result": 69.89647
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12003-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:46:47Z",
+            "resultTime": "2025-06-05T18:46:47Z",
+            "result": 19.290836
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12003-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:46:47Z",
+            "resultTime": "2025-06-05T18:46:47Z",
+            "result": 61.66232
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11079-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:33:54Z",
+            "resultTime": "2025-06-05T18:33:54Z",
+            "result": 18.147936
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11079-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:33:54Z",
+            "resultTime": "2025-06-05T18:33:54Z",
+            "result": 71.60548
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11131-temperature"
+            },
+            "phenomenonTime": "2025-06-05T17:51:04Z",
+            "resultTime": "2025-06-05T17:51:04Z",
+            "result": 19.360266
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11131-humidity"
+            },
+            "phenomenonTime": "2025-06-05T17:51:04Z",
+            "resultTime": "2025-06-05T17:51:04Z",
+            "result": 62.3299
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11114-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:43:43Z",
+            "resultTime": "2025-06-05T18:43:43Z",
+            "result": 18.50042
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11114-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:43:43Z",
+            "resultTime": "2025-06-05T18:43:43Z",
+            "result": 65.95392
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11133-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:45:45Z",
+            "resultTime": "2025-06-05T18:45:45Z",
+            "result": 18.91165
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11133-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:45:45Z",
+            "resultTime": "2025-06-05T18:45:45Z",
+            "result": 66.64057
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12007-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:31:50Z",
+            "resultTime": "2025-06-05T18:31:50Z",
+            "result": 19.119936
+        },
+        {
+            "Datastream": {
+                "@iot.id": "12007-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:31:50Z",
+            "resultTime": "2025-06-05T18:31:50Z",
+            "result": 63.64027
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11132-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:39:55Z",
+            "resultTime": "2025-06-05T18:39:55Z",
+            "result": 15.247959
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11132-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:39:55Z",
+            "resultTime": "2025-06-05T18:39:55Z",
+            "result": 79.156784
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11136-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:45:25Z",
+            "resultTime": "2025-06-05T18:45:25Z",
+            "result": 19.368277
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11136-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:45:25Z",
+            "resultTime": "2025-06-05T18:45:25Z",
+            "result": 62.17922
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11139-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:48:06Z",
+            "resultTime": "2025-06-05T18:48:06Z",
+            "result": 19.22675
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11139-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:48:06Z",
+            "resultTime": "2025-06-05T18:48:06Z",
+            "result": 60.11734
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11138-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:40:33Z",
+            "resultTime": "2025-06-05T18:40:33Z",
+            "result": 19.168001
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11138-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:40:33Z",
+            "resultTime": "2025-06-05T18:40:33Z",
+            "result": 62.2002
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11137-temperature"
+            },
+            "phenomenonTime": "2025-06-05T18:43:53Z",
+            "resultTime": "2025-06-05T18:43:53Z",
+            "result": 19.595255
+        },
+        {
+            "Datastream": {
+                "@iot.id": "11137-humidity"
+            },
+            "phenomenonTime": "2025-06-05T18:43:53Z",
+            "resultTime": "2025-06-05T18:43:53Z",
+            "result": 59.39254
+        }
+    ]
+}
