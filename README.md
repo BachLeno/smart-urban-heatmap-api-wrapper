@@ -40,3 +40,23 @@ Das Repository ist strukturiert in drei Hauptbereiche:
    ```bash
    git clone https://github.com/BachLeno/smart-urban-heatmap-api-wrapper.git
    cd smart-urban-heatmap-api-wrapper
+
+
+## Gehostete API & neues Demo-Notebook
+
+Nach Abgabe des Praxisprojekts wurde die SensorThings API online gehostet via [PythonAnywhere](https://www.pythonanywhere.com/).
+
+### Öffentliche Endpunkte
+
+- [`/latest`](https://lenobach.pythonanywhere.com/latest) – Aktuelle Stationsdaten im SensorThings-Format
+- [`/timeseries`](https://lenobach.pythonanywhere.com/timeseries?stationId=11117&timeFrom=2024-11-01T00:00:00Z&timeTo=2024-11-05T00:00:00Z) – Zeitreihendaten für eine bestimmte Station und Zeitraum
+
+### Neue Dateien
+
+| Datei                           | Beschreibung |
+|--------------------------------|--------------|
+| `SensorThings_API_Demo_Notebook.ipynb` | Neues interaktives Notebook zur Abfrage der live-API über PythonAnywhere |
+| `flask_app.py`                 | Flask-basierte Bereitstellung der API-Endpunkte für `/latest` und `/timeseries` |
+
+Das Notebook ersetzt die lokale JSON-basierte Lösung und greift direkt auf die gehosteten REST-Endpunkte zu.
+
